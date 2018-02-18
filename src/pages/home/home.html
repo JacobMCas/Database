@@ -1,14 +1,85 @@
 <ion-header>
   <ion-navbar>
     <ion-title>
-      Ionic Blank
+      CAS Submittal Database
+      <button icon-only clear color="dark" (click)="cart()" ion-button style="float:right">
+        <ion-icon style="float:right;" name="cart"></ion-icon>
+      <ion-badge color="danger" item-end>{{itemsInCart}}</ion-badge>
+      </button>
     </ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content padding>
-  The world is your oyster.
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
-  </p>
+  <div>
+      <ion-searchbar [formControl]="searchControl" autocomplete='on' type='search' [(ngModel)]="searchTerm" (input)="search()" [showCancelButton]='shouldShowCancel' animated='true' (ion-input)='onInput' ></ion-searchbar>
+   </div>
+   <div *ngIf="searching" class="spinner-container">
+      <ion-spinner></ion-spinner>
+  </div>
+  <ion-grid>
+    <ion-col>
+        <ion-card>
+            <ion-card-header class="category">
+                Category
+            </ion-card-header>
+            <ion-card-content>
+                <ion-item>
+                   <ion-input type="text" [formControl]="searchControl" (input)="filterCategories()" [(ngModel)]="category"></ion-input>
+                  </ion-item>
+                    </ion-card-content>
+          </ion-card>
+
+          <ion-card>
+              <ion-card-header class="manufacturer">
+                  Manufacturer
+              </ion-card-header>
+              <ion-card-content>
+                  <ion-item>
+                    <ion-input type="text" [formControl]="searchControl" (input)="filterManufactures()" [(ngModel)]="manufacturer"></ion-input>
+                  </ion-item>
+              </ion-card-content>
+          </ion-card>
+
+      <ion-card>
+        <ion-card-header class="specification">
+            Specifications
+        </ion-card-header>
+        <ion-card-content>
+          <ion-item>
+              <ion-badge class="spec-badge" color="amber">{{spec}}</ion-badge>
+          </ion-item>
+            <ion-item>
+                <ion-range min="0" step="1" snaps="true" max="10" (ionChange)="filterSpec()" [(ngModel)]="spec" color="amber">
+                  <ion-label range-left>0</ion-label>
+                  <ion-label range-right>10</ion-label>
+                </ion-range>
+              </ion-item>
+        </ion-card-content>
+      </ion-card>
+    </ion-col>
+      <ion-col>
+ <ion-list id="products">
+   <ion-item-sliding *ngFor='let item of products'>
+   <ion-item>
+      <ion-avatar item-start>
+        <img src='http://via.placeholder.com/350x2150'>
+      </ion-avatar>
+    <h1>{{item.Product}}</h1>
+        <p>Category: {{item.Category}}</p>
+   </ion-item>
+      <ion-item-options side='right'>
+         <button ion-button color='light' (click)='showDetail(item)'>
+           <ion-icon name='list'></ion-icon>
+          View
+          </button>
+          <button ion-button color='danger' (click)='addToCart(item)'>
+            <ion-icon name='add-circle'></ion-icon>
+            Add
+          </button>
+       </ion-item-options>
+     </ion-item-sliding>
+    </ion-list>
+  </ion-col>
+</ion-grid>
 </ion-content>

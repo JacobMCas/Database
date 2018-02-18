@@ -1,0 +1,32 @@
+page-detail {
+  
+    .contactInfo {
+        float: right;
+        top:5px !important;
+        left:300px !important;
+        position: absolute;
+    } 
+    
+    .contactInfo h1 {
+        font-size: 4em;
+    }
+        .subHead {
+            color: gray;
+            padding: 5px;
+        }
+
+        ion-card-content {
+            margin-bottom: 10px !important;
+        }
+
+        ion-card-header {
+            text-shadow: 2px 2px #000000;
+        }
+
+        .header {
+            background-color: #16a085;
+            color: white;
+            text-shadow: 2px 2px #000000;
+        }
+
+}

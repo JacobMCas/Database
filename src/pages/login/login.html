@@ -1,0 +1,33 @@
+
+<ion-content id="main">
+    <ion-slides class="slides" autoplay="5000" loop="true" speed="3000">
+        <ion-slide>
+          <img class="slides" src="http://gwaverf.gwaymicrowave.com/wp-content/uploads/2017/12/dct-construction-clients-1.jpg">
+        </ion-slide>
+        <ion-slide >
+          <img class="slides" src="https://www.sott.net/image/s22/442984/full/SMART_Build_Leica_marquee_1680.jpg">
+        </ion-slide>
+        <ion-slide >
+          <img class="slides" src="https://cdn.static-economist.com/sites/default/files/images/print-edition/20170819_WBP001_1.jpg">
+        </ion-slide>
+        <ion-slide>
+          <img class="slides" src="https://builtworlds.com/wp-content/uploads/2018/01/construction-site-build-construction-work-159306.jpeg">
+        </ion-slide>
+      </ion-slides>
+  <img class="logo" src="https://media.glassdoor.com/sqll/24596/component-assembly-systems-squarelogo-1451473274008.png">
+  <ion-card>
+    <ion-card-content>
+      <ion-item> 
+      <ion-label floating>Email</ion-label>
+      <ion-input type="text" [(ngModel)]="user.email"></ion-input>
+      </ion-item>
+      <ion-item>
+        <ion-label floating>Password</ion-label>
+        <ion-input type="password" [(ngModel)]="user.password"></ion-input>
+      </ion-item>
+    </ion-card-content>
+  </ion-card>
+  <button ion-button color="light" (click)="login(user)">Login</button>
+  <br>
+  <button ion-button clear (click)="gotoRegister()">Don't have an account</button>
+</ion-content>

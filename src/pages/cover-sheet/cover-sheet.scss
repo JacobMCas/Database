@@ -1,0 +1,28 @@
+page-cover-sheet {
+    $red: random(256)-1;
+    $green: random(256)-1;
+    $blue: random(256)-1; 
+    $alpha: random(100)/100;
+    .random {
+        background-color: unquote('rgba(#{$red}, #{$green}, #{$blue}, #{$alpha})') !important;
+        color: white;
+        text-shadow: 2px 2px #000000;
+    }
+
+    ion-input[type='text'] { 
+        background-color: #D7DBDD;
+        color: black;
+        border-color: teal 2px;
+        border-radius: 10px;
+        margin-top: 20px;
+    }
+
+    ion-textarea {
+        height: auto;
+        background-color: #D7DBDD;              
+        color: black;
+        border-color: teal 2px;
+        border-radius: 10px;
+        margin-top: 20px;
+    }
+}

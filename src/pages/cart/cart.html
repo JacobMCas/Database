@@ -1,0 +1,33 @@
+
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Cart</ion-title>
+    <ion-buttons end>
+      <button ion-button (click)="export()" icon-left>
+        <ion-icon name="buffer"></ion-icon>
+        View Cover Sheet
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <ion-list>
+  </ion-list>
+  <ion-list>
+    <ion-row *ngFor="let item of cart; let id = index;">
+    <ion-col>
+      <ion-item>
+        <ion-avatar item-start>
+            <img src='http://via.placeholder.com/350x150'>
+          </ion-avatar>
+      <h1>{{item.Product}}</h1>
+      <p>{{item.Category}}</p>
+      </ion-item>
+      </ion-col>
+    </ion-row>
+  </ion-list>
+</ion-content>

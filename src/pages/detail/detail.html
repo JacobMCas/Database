@@ -1,0 +1,68 @@
+
+<ion-header>
+
+  <ion-navbar color="amber">
+    <ion-title>
+      {{product.Product}}
+    <button ion-button style="float:right;" clear color="dark" icon-only (click)="close()">
+      <ion-icon name="close-circle"></ion-icon>
+    </button>
+    </ion-title>
+  </ion-navbar>
+
+</ion-header>
+  <div class="title">
+    <h3> {{product.Manufacturer}} </h3>
+  </div>  
+<ion-content  padding>
+     
+   <div class="productImage">
+     <img [src]='pdf'
+    </div>
+   
+    <div class="contactInfo">
+        <h3> {{product.Product}} </h3>
+        <p class="subHead">
+           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec est non est consequat suscipit sit amet vitae mauris.
+          Duis tempor lectus sit amet ultrices viverra. Fusce sem dolor, pretium vitae enim tristique, tincidunt auctor ex.
+        </p>
+      </div>
+  
+        <ion-grid>
+          <ion-row>
+            <ion-col>
+              <ion-card>
+                <ion-card-header style="background-color:darkorange;color:whitesmoke">
+                  Spec
+                </ion-card-header>
+                <ion-card-content>
+                  <br>
+                 <p style="font-size:3em;text-align:center;"> {{product.Spec}} </p>
+                </ion-card-content>
+              </ion-card>
+            </ion-col>
+            <ion-col>
+              <ion-card>
+                <ion-card-header style="background-color:darkred;color:whitesmoke">
+                  Category
+                </ion-card-header>
+                <ion-card-content>
+                  <br>
+                  <h2>{{product.Category}}</h2>
+                </ion-card-content>
+              </ion-card>
+            </ion-col>
+            <ion-col>
+              <ion-card>
+                <ion-card-header style="background-color:darkgreen;color:whitesmoke">
+                  Manufacturer
+                </ion-card-header>
+                <ion-card-content>
+                  <br>
+                  <h2>{{product.Manufacturer}}</h2>
+                </ion-card-content>
+              </ion-card>
+            </ion-col>
+          </ion-row>
+        </ion-grid>
+</ion-content>

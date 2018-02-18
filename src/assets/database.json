@@ -1,0 +1,5364 @@
+{
+"database":[ 
+  {
+  "Category" : "Ceilings-Acoustical Ceiling Suspension Assemblies",
+  "Data" : "SS",
+  "Manufacturer" : "Dewalt",
+  "Product" : "Sniper Semi-Auto Pole Tool",
+  "Spec" : 9
+}, {
+  "Category" : "Rough Carp-Sheathing-Insulating Sheathing",
+  "Data" : "EG",
+  "Manufacturer" : "GAF",
+  "Product" : "EnergyGuard Polylso Sheathing",
+  "Spec" : 6
+}, {
+  "Category" : "Thermal and Moisture Protection- Common Work Results -Adhesives",
+  "Data" : "OB",
+  "Manufacturer" : "GAF",
+  "Product" : "OlyBond500 Green & Spotshot Insulation Adhesive",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work",
+  "Data" : "CGP",
+  "Manufacturer" : "Grabber",
+  "Product" : "Cold Galv Primer",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection- Joint Sealants",
+  "Data" : "PS",
+  "Manufacturer" : "Grabber",
+  "Product" : "Powerstick Adhesive Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection- Joints Sealants-Elastomeric Joint Sealants",
+  "Data" : "AS",
+  "Manufacturer" : "Grabber",
+  "Product" : "Acoustical Sound & Smoke Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Finishes- Common Work Results- Adhesives",
+  "Data" : "HPA",
+  "Manufacturer" : "Grabber",
+  "Product" : "Grabber Hangtite Spray Adhesive",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Common Work Results- Adhesives",
+  "Data" : "GDA",
+  "Manufacturer" : "Grabber",
+  "Product" : "Grabber Professional Drywall Adhesive GDWAF",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Common Work Results- Adhesives",
+  "Data" : "TGA",
+  "Manufacturer" : "Grabber",
+  "Product" : "TiteBond Green Drywall Adhesive",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Common Work Results-Tools",
+  "Data" : "UK",
+  "Manufacturer" : "Grabber",
+  "Product" : "Utility Knives",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings- Acoustical Ceiling Suspension Assemblies- Accessories",
+  "Data" : "SSA",
+  "Manufacturer" : "Grabber",
+  "Product" : "Springshot Self Seating Acoustical Toggle Bolt",
+  "Spec" : 9
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "CR",
+  "Manufacturer" : "ROXUL",
+  "Product" : "CavityRock",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "CR",
+  "Manufacturer" : "ROXUL",
+  "Product" : "CurtainRock 40/80",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "RB",
+  "Manufacturer" : "ROXUL",
+  "Product" : "RockBoard 60",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "RB",
+  "Manufacturer" : "ROXUL",
+  "Product" : "RockBoard 80",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "CR",
+  "Manufacturer" : "ROXUL",
+  "Product" : "ConRock",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "PR",
+  "Manufacturer" : "ROXUL",
+  "Product" : "ProRox SL 430NA",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "PR",
+  "Manufacturer" : "ROXUL",
+  "Product" : "ProRox SL 450NA",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "PR",
+  "Manufacturer" : "ROXUL",
+  "Product" : "ProRox SL 460NA",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "PR",
+  "Manufacturer" : "ROXUL",
+  "Product" : "ProRox SL 540NA",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "PR",
+  "Manufacturer" : "ROXUL",
+  "Product" : "ProRox SL 560NA",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "PR",
+  "Manufacturer" : "ROXUL",
+  "Product" : "ProRox SL 590NA",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "PR",
+  "Manufacturer" : "ROXUL",
+  "Product" : "ProRox SL 760NA",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "PR",
+  "Manufacturer" : "ROXUL",
+  "Product" : "ProRox SL 920NA",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "PR",
+  "Manufacturer" : "ROXUL",
+  "Product" : "ProRox SL 930NA",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "PR",
+  "Manufacturer" : "ROXUL",
+  "Product" : "ProRox SL 940NA",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "PR",
+  "Manufacturer" : "ROXUL",
+  "Product" : "ProRox SL 960NA",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Semi-Rigid Panel Insulation",
+  "Data" : "CB",
+  "Manufacturer" : "ROXUL",
+  "Product" : "Comfortboard 110",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Semi-Rigid Panel Insulation",
+  "Data" : "CB",
+  "Manufacturer" : "ROXUL",
+  "Product" : "Comfortboard 80",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Semi-Rigid Panel Insulation",
+  "Data" : "RB",
+  "Manufacturer" : "ROXUL",
+  "Product" : "RockBoard 40",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Semi-Rigid Panel Insulation",
+  "Data" : "CR",
+  "Manufacturer" : "ROXUL",
+  "Product" : "CurtainRock",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Batt and Blanket Insulation",
+  "Data" : "AFB",
+  "Manufacturer" : "ROXUL",
+  "Product" : "AFB",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Batt and Blanket Insulation",
+  "Data" : "CB",
+  "Manufacturer" : "ROXUL",
+  "Product" : "Comfortbatt",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Batt and Blanket Insulation",
+  "Data" : "MB",
+  "Manufacturer" : "ROXUL",
+  "Product" : "Plus MB",
+  "Spec" : 7
+}, {
+  "Category" : "Fire and Smoke Protection-Firestopping-Building and Perimeter Firestopping",
+  "Data" : "S",
+  "Manufacturer" : "ROXUL",
+  "Product" : "SAFE",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Preformed Joints Seals-Joint Fillers",
+  "Data" : "CB",
+  "Manufacturer" : "Adhesvies Tech",
+  "Product" : "CrackBond JF311",
+  "Spec" : 7
+}, {
+  "Category" : "Rough Carp-Sheathing-Gypsum Sheathing",
+  "Data" : "EGS",
+  "Manufacturer" : "American Gypsum",
+  "Product" : "Exterior Gypsum Sheathing",
+  "Spec" : 6
+}, {
+  "Category" : "Rough Carp-Sheathing-Gypsum Sheathing",
+  "Data" : "MGS",
+  "Manufacturer" : "American Gypsum",
+  "Product" : "M-Glass Exterior Sheathing",
+  "Spec" : 6
+}, {
+  "Category" : "Rough Carp-Sheathing-Gypsum Sheathing",
+  "Data" : "MGL",
+  "Manufacturer" : "American Gypsum",
+  "Product" : "M-Glass Shaft Liner",
+  "Spec" : 6
+}, {
+  "Category" : "Joint Protection-Joint Sealants",
+  "Data" : "ARP",
+  "Manufacturer" : "Ardex",
+  "Product" : "ArdiSeal Rapid Plus",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection- Joints Sealants-Elastomeric Joint Sealants",
+  "Data" : "FC",
+  "Manufacturer" : "Ardex",
+  "Product" : "Flex Caulk",
+  "Spec" : 7
+}, {
+  "Category" : "Plaster and Gypsum Borad-Supports for Plaster and Gypsum Board- Non Structural Metal Framing",
+  "Data" : "CG",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Curved Drywall Grid System",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Borad-Supports for Plaster and Gypsum Board- Non Structural Metal Framing",
+  "Data" : "GS",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Drywall/Stucco/Plaster Grid Systems",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Borad-Supports for Plaster and Gypsum Board- Non Structural Metal Framing",
+  "Data" : "SG",
+  "Manufacturer" : "Armstrong",
+  "Product" : "ShortSpan Drywall Grid System",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings",
+  "Data" : "CS",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cirrus Square Lay-in",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings",
+  "Data" : "CT",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cirrus Tegular",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings",
+  "Data" : "CSL",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cortega Second Look I",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings",
+  "Data" : "CSL",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cortega Second Look II",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings",
+  "Data" : "CTS",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cortega Tile & Lay-in - Sqaure Lay-in",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings",
+  "Data" : "D",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Designer",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings",
+  "Data" : "FF",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Fine Fissured - Square Lay-in",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings",
+  "Data" : "FF",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Fine Fissured - Tegular",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings",
+  "Data" : "FS",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Fissured - Square Lay-in",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings",
+  "Data" : "FT",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Fissured - Tegular",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings",
+  "Data" : "RF",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Random Fissured",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings",
+  "Data" : "S",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Shasta",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "AT",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Armatuff",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "CP",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cermaguard Fine Fissured-Perforated",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "CU",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cermaguard Fine Fissured-Unperforated",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "COP",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cirrus Open Plan",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "CB",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cirrus Profiles-Beaded",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "CB",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cirrus Profiles-Beveled",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "CPC",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cirrus Profiles-Chamfered",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "CPC",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cirrus Profiles-Classi Step",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "CSL",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cirrus Second Look I",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "CSL",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cirrus Second Look II",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "CSL",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cirrus Second Look III",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "CT",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cirrus Themes-Critters",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "CT",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cirrus Themes-Leaves",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "CT",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cirrus Themes-Stars",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "CT",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cirrus Themes-Things That Fly",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "CT",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Cirrus Themes- Under the Sea",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "VL",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Clean Room VL",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "DSL",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Dune Second Look I",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "DSL",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Dune Second Look II",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "DSL",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Dune-Square Lay-In",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "DT",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Dune-Tegular",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "FFO",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Fine Fissured Open Plan",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "FFS",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Fine Fissured Second Look",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "GS",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Georgian-Square Lay-In",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "GT",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Georgian-Tegular",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "GF",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Graphis Finetex",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "L",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Ledges",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "M",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Mesa",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "CPM",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Metaphors Coffers & Perimeter Moldings",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "OP",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Optima Open Plan-Square Lay-In",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "OP",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Optima Open Plan-Square Lay-In-Large Sizes",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "OP",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Optima Open Plan-Tegular-Large Sizes",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "OV",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Optima Vector",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "VP",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Optima Vector Plank",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "PN",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Painted Nubb Open Plan-Square Lay-In",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "PN",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Painted Nubby Open Plan-Tegular",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "P",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Pebble",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "PXL",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Prelude Plus XL Fire Guard 15/16\" Exposed Tee",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "PXL",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Prelude XL 15/16\" Exposed Tee",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "SZ",
+  "Manufacturer" : "Armstrong",
+  "Product" : "School Zone Fine Fissured",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "T",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Tierra",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "T",
+  "Manufacturer" : "Armstrong",
+  "Product" : "TinCraft",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "T",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Tundra",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "UO",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Ultima Open Pan-Tegular",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "US",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Ultima-Square Lay-In",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "UT",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Ultima-Tegular",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "UV",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Ultima Vector",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "VL",
+  "Manufacturer" : "Armstrong",
+  "Product" : "VL",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Wood Ceilings",
+  "Data" : "WW",
+  "Manufacturer" : "Armstrong",
+  "Product" : "WoodWorks Canopies",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Wood Ceilings",
+  "Data" : "WW",
+  "Manufacturer" : "Armstrong",
+  "Product" : "WoodWorks Channeled-Ceiling Plank",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Wood Ceilings",
+  "Data" : "WW",
+  "Manufacturer" : "Armstrong",
+  "Product" : "WoodWorks Channeled-Tegular and Vector",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Metal Panel Ceilings",
+  "Data" : "MT",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Metalworks Tin",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Metal Panel Ceilings",
+  "Data" : "MTS",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Metalworks Torsion Spring",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceiling Suspension Assemblies",
+  "Data" : "AL",
+  "Manufacturer" : "Armstrong",
+  "Product" : "AL Prelude Plus XL 15/16\" Exposed Tee",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceiling Suspension Assemblies",
+  "Data" : "AC",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Axiom Classic Trim",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceiling Suspension Assemblies",
+  "Data" : "AGS",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Clean Room Aluminum Grid Systems",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceiling Suspension Assemblies",
+  "Data" : "IXL",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Interlude XL 9/16\" Dimensional Tee System",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceiling Suspension Assemblies",
+  "Data" : "HRC",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Interlude XL HRC",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceiling Suspension Assemblies",
+  "Data" : "CT",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Prelude Concealed Tee System",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceiling Suspension Assemblies",
+  "Data" : "ET",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Prelude ML 15/16\" Exposed Tee",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceiling Suspension Assemblies",
+  "Data" : "XL",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Prelude XL 15/16\" for Exterior Applications",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceiling Suspension Assemblies",
+  "Data" : "ET",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Prelude XL Fire Guard 15/16\" Exposed Tee",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceiling Suspension Assemblies",
+  "Data" : "3D",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Serpentina 3-Dimensional Ceiling System",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceiling Suspension Assemblies",
+  "Data" : "SV",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Serpentina Vault",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceiling Suspension Assemblies",
+  "Data" : "SR",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Silhouette XL 9/16\" Bolt Slot-1/4\" Reveal",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceiling Suspension Assemblies",
+  "Data" : "SR",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Silhouette XL 9/16\" Bolt Slot-1/8\" Reveal",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceiling Suspension Assemblies",
+  "Data" : "ST",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Sonata 9/16\" Dimensional Tee System",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceiling Suspension Assemblies",
+  "Data" : "XL",
+  "Manufacturer" : "Armstrong",
+  "Product" : "SS Prelude Plus XL 15/16\" Exposed Tee Systems",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceiling Suspension Assemblies",
+  "Data" : "SET",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Suprafine 9/16\" Exposed Tee Systems",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceiling Suspension Assemblies",
+  "Data" : "SS",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Trimlok 9/16\" Screw-Slot System",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceiling Suspension Assemblies-Metal Acoustic Ceiling Suspension Assemblies",
+  "Data" : "HRC",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Prelude XL HRC",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Specialty Ceilings",
+  "Data" : "AC",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Formations Accent & Acoustical Clouds",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Specialty Ceilings",
+  "Data" : "IAC",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Infusions Accent Canopies",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Specialty Ceilings",
+  "Data" : "SAC",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Soundscapes Acoustical Canopies",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Specialty Ceilings",
+  "Data" : "SS",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Soundscapes Shapes",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Specialty Ceilings-Suspended Wood Ceilings",
+  "Data" : "WC",
+  "Manufacturer" : "Armstrong",
+  "Product" : "WoodWorks Concealed",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Specialty Ceilings-Suspended Wood Ceilings",
+  "Data" : "WL",
+  "Manufacturer" : "Armstrong",
+  "Product" : "WoodWorks Linear",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Specialty Ceilings-Suspended Wood Ceilings",
+  "Data" : "WT",
+  "Manufacturer" : "Armstrong",
+  "Product" : "WoodWorks Tegular",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Specialty Ceilings-Suspended Wood Ceilings",
+  "Data" : "WV",
+  "Manufacturer" : "Armstrong",
+  "Product" : "WoodWorks Vector",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Specialty Ceilings-Wood Look Laminated Ceilings",
+  "Data" : "IP",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Infusions 2 X 2' Lay-In Panels",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Specialty Ceilings-Wood Look Laminated Ceilings",
+  "Data" : "WL",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Lineage Wood Looks",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Specialty Ceilings-Suspended Decorative Grids",
+  "Data" : "MS",
+  "Manufacturer" : "Armstrong",
+  "Product" : "MetalWorks Open Cell Lay-In System",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Specialty Ceilings-Suspended Decorative Grids",
+  "Data" : "MS",
+  "Manufacturer" : "Armstrong",
+  "Product" : "MetalWorks Open Cell Lock-In System",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Specialty Ceilings-Suspended Decorative Grids",
+  "Data" : "WO",
+  "Manufacturer" : "Armstrong",
+  "Product" : "WoodWorks Open Cell",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Specialty Ceilings-Fabric Wrapped Ceiling Panels",
+  "Data" : "FC",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Filaments Fabric Ceiling Panels",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Gypsum Panel Textured Ceilings",
+  "Data" : "GR",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Graphis Rustex",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Metal Panel Textured Ceilings",
+  "Data" : "EM",
+  "Manufacturer" : "Armstrong",
+  "Product" : "MetalWorks Mesh-Expanded Metal",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Metal Panel Textured Ceilings",
+  "Data" : "WW",
+  "Manufacturer" : "Armstrong",
+  "Product" : "MetalWorks Mesh - Welded Wire",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Metal Panel Textured Ceilings",
+  "Data" : "WW",
+  "Manufacturer" : "Armstrong",
+  "Product" : "MetalWorks Mesh - Woven Wire",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Metal Panel Textured Ceilings",
+  "Data" : "MP",
+  "Manufacturer" : "Armstrong",
+  "Product" : "MetalWorks Plank",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Metal Panel Textured Ceilings",
+  "Data" : "MT",
+  "Manufacturer" : "Armstrong",
+  "Product" : "MetalWorks Tegular - Standard",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Metal Panel Textured Ceilings",
+  "Data" : "MV",
+  "Manufacturer" : "Armstrong",
+  "Product" : "MetalWorks Vector for Exterior Applications",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Metal Panel Textured Ceilings",
+  "Data" : "MS",
+  "Manufacturer" : "Armstrong",
+  "Product" : "MetalWorks Vector - Standard",
+  "Spec" : 9
+}, {
+  "Category" : "Joint Protection-Preformed Joint Seals-Backer Rods",
+  "Data" : "MHF",
+  "Manufacturer" : "Backer Rod",
+  "Product" : "Mile High Foam",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Preformed Joint Seals-Backer Rods",
+  "Data" : "UB",
+  "Manufacturer" : "Backer Rod",
+  "Product" : "Ultra Block",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants",
+  "Data" : "FXL",
+  "Manufacturer" : "Backer Rod",
+  "Product" : "Mile High Foam XL",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants",
+  "Data" : "TF",
+  "Manufacturer" : "Backer Rod",
+  "Product" : "Titan Foam",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work",
+  "Data" : "EA",
+  "Manufacturer" : "BASF Corp",
+  "Product" : "ELASTOCOAT A-1000",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work",
+  "Data" : "EA",
+  "Manufacturer" : "BASF Corp",
+  "Product" : "ELASTOCOAT A-1000 QS",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work",
+  "Data" : "EA",
+  "Manufacturer" : "BASF Corp",
+  "Product" : "ELASTOCOAT S-5000",
+  "Spec" : 7
+}, {
+  "Category" : "Cold Formed Metal Framing",
+  "Data" : "SC",
+  "Manufacturer" : "CEMCO",
+  "Product" : "CEMCO Slide Clip",
+  "Spec" : 5
+}, {
+  "Category" : "Cold Formed Metal Framing",
+  "Data" : "UC",
+  "Manufacturer" : "CEMCO",
+  "Product" : "U",
+  "Spec" : 5
+}, {
+  "Category" : "Cold Formed Metal Framing-Structural Metal Stud Framinig",
+  "Data" : 33,
+  "Manufacturer" : "CEMCO",
+  "Product" : "S - Punched C Studs, 33 MIL(20GA)",
+  "Spec" : 5
+}, {
+  "Category" : "Cold Formed Metal Framing-Structural Metal Stud Framinig",
+  "Data" : 43,
+  "Manufacturer" : "CEMCO",
+  "Product" : "S - Punched C Studs, 43 MIL(18GA)",
+  "Spec" : 5
+}, {
+  "Category" : "Cold Formed Metal Framing-Structural Metal Stud Framinig",
+  "Data" : 54,
+  "Manufacturer" : "CEMCO",
+  "Product" : "S - Punched C studs, 54 MIL(16GA)",
+  "Spec" : 5
+}, {
+  "Category" : "Cold Formed Metal Framing-Structural Metal Stud Framinig",
+  "Data" : 68,
+  "Manufacturer" : "CEMCO",
+  "Product" : "S - Punched C Studs, 68 MIL(14GA)",
+  "Spec" : 5
+}, {
+  "Category" : "Cold Formed Metal Framing-Structural Metal Stud Framinig",
+  "Data" : 97,
+  "Manufacturer" : "CEMCO",
+  "Product" : "S - Punched C Studs, 97 MIL(12GA)",
+  "Spec" : 5
+}, {
+  "Category" : "Cold Formed Metal Framing-Structural Metal Stud Framinig-Structural Metal Stud Framing Tracks",
+  "Data" : "ES",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Exterior Slotted Track",
+  "Spec" : 5
+}, {
+  "Category" : "Cold Formed Metal Framing-Structural Metal Stud Framinig-Structural Metal Stud Framing Tracks",
+  "Data" : "NT",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Notched Track \"NT",
+  "Spec" : 5
+}, {
+  "Category" : "Cold Formed Metal Framing-Structural Metal Stud Framinig-Structural Metal Stud Framing Tracks",
+  "Data" : "DT",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Dry-Trak",
+  "Spec" : 5
+}, {
+  "Category" : "Cold Formed Metal Framing-Structural Metal Stud Framinig-Structural Metal Stud Framing Tracks",
+  "Data" : 43,
+  "Manufacturer" : "CEMCO",
+  "Product" : "T",
+  "Spec" : 5
+}, {
+  "Category" : "Cold Formed Metal Framing-Structural Metal Stud Framinig-Structural Metal Stud Framing Tracks",
+  "Data" : 54,
+  "Manufacturer" : "CEMCO",
+  "Product" : "T",
+  "Spec" : 5
+}, {
+  "Category" : "Cold Formed Metal Framing-Structural Metal Stud Framinig-Structural Metal Stud Framing Tracks",
+  "Data" : 68,
+  "Manufacturer" : "CEMCO",
+  "Product" : "T",
+  "Spec" : 5
+}, {
+  "Category" : "Cold Formed Metal Framing-Structural Metal Stud Framinig-Structural Metal Stud Framing Tracks",
+  "Data" : 97,
+  "Manufacturer" : "CEMCO",
+  "Product" : "T",
+  "Spec" : 5
+}, {
+  "Category" : "Cold Formed Metal Framing-Cold Formed Metal Joist Framing",
+  "Data" : "FJ",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Sure-Span SSCJ Floor Joists",
+  "Spec" : 5
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "SDE",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Soffit Drip Edge",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "CJ",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Solid Leg Control Joint",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "BF",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Base Flashing",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "FS",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Flashing Screed",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "HDS",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Head Drip Screed (Non-Perforated)",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "EFS",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Extended Foundation Screed",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "TCJ",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Transition Control Joint",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "AEJ",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Adjustable Expansion Joint",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "C",
+  "Manufacturer" : "CEMCO",
+  "Product" : "CEMCORNER",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "EJ",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Conrer Expansion Joint",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "CJ",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Double J Control Joint - #XJ15",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "CJ",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Double V Control Joint - #15",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "FH",
+  "Manufacturer" : "CEMCO",
+  "Product" : "“F” – Hat-Shaped Channel (1-1/2\" Height)",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "FH",
+  "Manufacturer" : "CEMCO",
+  "Product" : "“F” – Hat-Shaped Channel (7/8\" Height)",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "JM",
+  "Manufacturer" : "CEMCO",
+  "Product" : "J Metal",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "JB",
+  "Manufacturer" : "CEMCO",
+  "Product" : "J-Series Casing Bead",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "MS",
+  "Manufacturer" : "CEMCO",
+  "Product" : "M-Slide Expansion Joint",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "CB",
+  "Manufacturer" : "CEMCO",
+  "Product" : "No. 1A Expanded Corner Bead",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "CB",
+  "Manufacturer" : "CEMCO",
+  "Product" : "No. 2A Expanded Corner Bead",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "FS",
+  "Manufacturer" : "CEMCO",
+  "Product" : "No. 34 Code Foundation Sill Screed",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "FS",
+  "Manufacturer" : "CEMCO",
+  "Product" : "No. 36 Code Foundation Sill Screed",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "CB",
+  "Manufacturer" : "CEMCO",
+  "Product" : "No. 66 Expanded Flange Casing Bead",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "CB",
+  "Manufacturer" : "CEMCO",
+  "Product" : "No. 66 Short Flange Casing-Bead",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "FS",
+  "Manufacturer" : "CEMCO",
+  "Product" : "No. 7 Foundation Sill Screed",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes- Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "P",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Patches",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board Assemblies-Gypsum Board Assemblies-Gypsum Board Shaft Wall Assemblies",
+  "Data" : "HSW",
+  "Manufacturer" : "CEMCO",
+  "Product" : "H Shaft Wall Stud",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board Assemblies-Gypsum Board Assemblies-Gypsum Board Shaft Wall Assemblies",
+  "Data" : "CH",
+  "Manufacturer" : "CEMCO",
+  "Product" : "CH Shaft Wall Stud",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Metal Support Assembly Accessories",
+  "Data" : "RC",
+  "Manufacturer" : "CEMCO",
+  "Product" : "RC-1 Resilient Channel",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Metal Support Assembly Accessories",
+  "Data" : "RC",
+  "Manufacturer" : "CEMCO",
+  "Product" : "RC-2 Resilient Channel",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Metal Support Assembly Accessories",
+  "Data" : "ZC",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Z-Furring Channel",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non Structural Metal Framing",
+  "Data" : "CR",
+  "Manufacturer" : "CEMCO",
+  "Product" : "C-Runner",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non Structural Metal Framing-Non Structural Metal Stud Framing",
+  "Data" : "ST",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Cemco Slotted Track",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non Structural Metal Framing-Non Structural Metal Stud Framing",
+  "Data" : "V25",
+  "Manufacturer" : "CEMCO",
+  "Product" : "VIPER 25",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non Structural Metal Framing-Tracks",
+  "Data" : "JR",
+  "Manufacturer" : "CEMCO",
+  "Product" : "JR",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non Structural Metal Framing-Tracks",
+  "Data" : "VT",
+  "Manufacturer" : "CEMCO",
+  "Product" : "ViperTrack",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non Structural Metal Framing-Studs",
+  "Data" : "SC",
+  "Manufacturer" : "CEMCO",
+  "Product" : "S Non-Structural Punched C Studs (1-1/4\" Flange 27 Mil)",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non Structural Metal Framing-Studs",
+  "Data" : "TU",
+  "Manufacturer" : "CEMCO",
+  "Product" : "T Unpunched Track, 11/4\" Legs 27 Mil",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Lath-Gypsum Lath",
+  "Data" : "KP",
+  "Manufacturer" : "CEMCO",
+  "Product" : "1/8\" Self-Furred Rib Lath with K-Paper",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Lath-Gypsum Lath",
+  "Data" : "RL",
+  "Manufacturer" : "CEMCO",
+  "Product" : "3/8\" Self-Furred Rib Lath",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Lath-Gypsum Lath",
+  "Data" : "KP",
+  "Manufacturer" : "CEMCO",
+  "Product" : "3/8\" Self-Furred Rib Lath with K-Paper",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Lath-Gypsum Lath",
+  "Data" : "K",
+  "Manufacturer" : "CEMCO",
+  "Product" : "CEM-LATH \"K",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Lath-Gypsum Lath",
+  "Data" : "C",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Cornerite",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Lath-Gypsum Lath",
+  "Data" : "S",
+  "Manufacturer" : "CEMCO",
+  "Product" : "Stripite",
+  "Spec" : 9
+}, {
+  "Category" : "Rough Carpentry-Sheathing-Gypsum Sheathing",
+  "Data" : "STC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Sheathing Treated Core",
+  "Spec" : 6
+}, {
+  "Category" : "Rough Carpentry-Sheathing-Gypsum Sheathing",
+  "Data" : "CTX",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Sheathing Treated Core Type X",
+  "Spec" : 6
+}, {
+  "Category" : "Rough Carpentry-Sheathing-Gypsum Sheathing",
+  "Data" : "GS",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "GlasRoc Brand Sheathing",
+  "Spec" : 6
+}, {
+  "Category" : "Rough Carpentry-Sheathing-Gypsum Sheathing",
+  "Data" : "GSX",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "GlasRoc Brand Sheathing Type X",
+  "Spec" : 6
+}, {
+  "Category" : "Thermal Protetion-Thermal Insulation",
+  "Data" : "HIS",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Hybrid Insulation System",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protetion-Thermal Insulation",
+  "Data" : "TR",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "T-Roc",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "CP",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "CertaPro Commercial Board",
+  "Spec" : 7
+}, {
+  "Category" : "Polystyrene Board Inulsation-Foam Board-Board Insulation",
+  "Data" : "EZE",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "ThermaEZE Thermal Insulation System",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Semi-Rigid Panel Insulation",
+  "Data" : "CB",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Semi-Rigid Commercial Boards",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Batt and Blanket Insulation",
+  "Data" : "W&M",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Basemet Wall and Masonry Wall Fiber Glass Building Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Batt and Blanket Insulation",
+  "Data" : "CB",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "CertaPro Thermal Extended Flange Batts",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Batt and Blanket Insulation",
+  "Data" : "CB",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "CertaPro Thermal Foil Faced Batts",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Batt and Blanket Insulation",
+  "Data" : "FSK",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "CertaPro Thermal FSK-25",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Batt and Blanket Insulation",
+  "Data" : "CB",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "CertaPro Thermal Kraft Faced Batts",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Batt and Blanket Insulation",
+  "Data" : "BI",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Commercial Blanket Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Batt and Blanket Insulation",
+  "Data" : "DI",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "DryRight Fiber Glass Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Batt and Blanket Insulation",
+  "Data" : "EI",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "EasyTouch Encapsulated Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Batt and Blanket Insulation",
+  "Data" : "FI",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Fiber Glass Building Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Batt and Blanket Insulation",
+  "Data" : "HFI",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "High-Performance Fiber Glass Building Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Batt and Blanket Insulation",
+  "Data" : "MBI",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Metal Building Insulation 202-96",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Batt and Blanket Insulation",
+  "Data" : "STB",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "SpeedyR Tabless Batts",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Batt and Blanket Insulation",
+  "Data" : "UB",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Universal Blanket",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants-Acoustical Joint Sealants",
+  "Data" : "AB",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "CertaPro AcoustaBlanket Black",
+  "Spec" : 7
+}, {
+  "Category" : "Plaster and Gypsum Board Assemblies-Gypsum Board Assemblies-Gypsum Board Shaft Wall Assemblies",
+  "Data" : "GSX",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "GlasRoc Shaftliner Type X",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board - Supports for Plaster and Gypsum Board - Suspension Systems",
+  "Data" : "CPT",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Cloud Perimeter Trim",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Gypsum Plastering",
+  "Data" : "PR",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "ProRoc Brand Cove, Cornice and Steps",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings",
+  "Data" : "BC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Baroque Mineral Fiber Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings",
+  "Data" : "CC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Cashmere Mineral Fiber Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings",
+  "Data" : "MC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Fine Fissured Customline Mineral Fiber Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings",
+  "Data" : "TC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "TufCore Fiberglass/Gypsum Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "BC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Baroque Customline Mineral Fiber Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "CC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Cashmere Customline Mineral Fiber Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "CC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Cashmere High NRC Mineral Fiber Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "CC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Cashmere Style Edge Mineral Fiber Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "MC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Directional Fissured Mineral Fiber Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "EFA",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Ecophon Focus A",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "EFD",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Ecophon Focus Dg",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "EFD",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Ecophon Focus Ds",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "EFE",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Ecophon Focus E",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "ECF",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Ecophon Focus F",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "EFW",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Ecophon Focus Wing",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "MC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Fine Fissured High NRC Mineral Fiber Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "MC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Fine Fissured Mineral Fiber Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "FC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Open Plan Fiberglass Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "MC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Sand Micro Customline Mineral Fiber Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "MC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Sand Micro Mineral Fiber Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "MC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "School Board Mineral Fiber Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "SC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Symphony f Fiberglass Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "SC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Symphony m Mineral Fiber Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "TC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Theatre Black f Fiberglass Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "MC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Vantage 10 Mineral Fiber Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "VC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Versatone Fiberglass Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "VC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Vinylrock Gypsum Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "VC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "VinylShield A, C Mineral Fiber Ceilings",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings Suspension Assemblies-Accessories",
+  "Data" : "SS",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "15/16\" Classic Aluminum Capped Hook System",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings Suspension Assemblies-Accessories",
+  "Data" : "SS",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "15/16\" Classic Aluminum Capped Stab System",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings Suspension Assemblies-Accessories",
+  "Data" : "SS",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "15/16\" Classic Environmental Stab System",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings Suspension Assemblies-Accessories",
+  "Data" : "SS",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "15/16\" Classic Hook System",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings Suspension Assemblies-Accessories",
+  "Data" : "SS",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "15/16\" Classic Stab System",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings Suspension Assemblies-Accessories",
+  "Data" : "SS",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "9/16\" Elite Narrow Stab System",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings Suspension Assemblies-Accessories",
+  "Data" : "SS",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "9/16\" Smoothline Bolt Slot System",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Gypsum Panel Textured Ceilings",
+  "Data" : "AC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Aquarock Gypsum Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Gypsum Panel Textured Ceilings",
+  "Data" : "EC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Envirogard Gypsum Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Gypsum Panel Textured Ceilings",
+  "Data" : "GC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Gyptone Base 31 Gypsum Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Gypsum Panel Textured Ceilings",
+  "Data" : "GC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Gyptone LINE 4 Gypsum Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Gypsum Panel Textured Ceilings",
+  "Data" : "GC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Gyptone POINT 11 Gypsum Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Gypsum Panel Textured Ceilings",
+  "Data" : "GC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Gyptone QUATTRO 20 Gypsum Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Gypsum Panel Textured Ceilings",
+  "Data" : "SC",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Symphony g Gypsum Ceiling",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Metal Panel Textured Ceilings",
+  "Data" : "LP",
+  "Manufacturer" : "CertainTeed",
+  "Product" : "Landmark Panels",
+  "Spec" : 9
+}, {
+  "Category" : "Cold Formed Metal Framing-Metal Support Assemblies",
+  "Data" : "BS",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "Fastback Backing System",
+  "Spec" : 5
+}, {
+  "Category" : "Rough Carpentry-Sheathing-Gypsum Sheathing",
+  "Data" : "VL",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "V-Groove Self Furring Lath",
+  "Spec" : 6
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Metal Support Assembly Accessories",
+  "Data" : "DP",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "Danback Flexible Wood Backing Plate (D16, 24)",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Metal Support Assembly Accessories",
+  "Data" : "RC",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "RC-1 Pro Resilient Channel",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Metal Support Assembly Accessories",
+  "Data" : "RC",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "RC-2 ProPlus Resilient Channel (RCDE)",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Metal Support Assembly Accessories",
+  "Data" : "RC",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "RC-2 Pro Resilient Channel (RCUR)",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Metal Support Assembly Accessories",
+  "Data" : "RC",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "RC Deluxe Resilient Channel",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Metal Support Assembly Accessories",
+  "Data" : "SB",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "TradeReady Spazzer 9200 Spacing Bar",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Metal Support Assembly Accessories",
+  "Data" : "UC",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "U-Channel / CRC (U)",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non Structural Metal Framing",
+  "Data" : "CJ",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "#093 Zinc Control Joint",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non Structural Metal Framing",
+  "Data" : "CP",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "BlazeFrame Cavity Plugs (SWCP)",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non Structural Metal Framing",
+  "Data" : "DP",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "BlazeFrame Deck Plugs",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non Structural Metal Framing",
+  "Data" : "FSB",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "BlazeFrame FSB Flat Strap Backer",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non Structural Metal Framing",
+  "Data" : "SL",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "BlazeFrame (JR 1) Shaftwall Deep Leg",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non Structural Metal Framing",
+  "Data" : "SS",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "ClarkDietrich CT-Stud Shaftwall System",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non Structural Metal Framing",
+  "Data" : "HS",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "ClarkDietrich H-Stud Area Separation Wall System",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non Structural Metal Framing",
+  "Data" : "CJ",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "FAS-093X Fire Rated Control Joint",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non Structural Metal Framing",
+  "Data" : "F",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "Furring / Hat Channel (F)",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non Structural Metal Framing",
+  "Data" : "RC",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "RC-1 ProPlus Resilient Channel (RCUR)",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non Structural Metal Framing",
+  "Data" : "ES",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "TRAKLOC Elevator Stud (TLE)",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non Structural Metal Framing",
+  "Data" : "FS",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "TRAKLOC Fixed Length Stud (TLF)",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non Structural Metal Framing",
+  "Data" : "SA",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "TRAKLOC Stud Assembly (TLA)",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non Structural Metal Framing",
+  "Data" : "SDA",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "TRAKLOC Stud Deflection Assembly (TLD)",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non Structural Metal Framing",
+  "Data" : "TT",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "TRAKLOC Track (TTS)",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non Structural Metal Framing",
+  "Data" : "ZF",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "Z-Furring Channel (DZF)",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non Structural Metal Framing-Non Structural Metal Stud Framing",
+  "Data" : "ST",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "Brady SLP-TRK Slotted Deflection Track",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non Structural Metal Framing-Non Structural Metal Stud Framing",
+  "Data" : "DT",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "Deep Leg Deflection Track (Slip Track)",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non Structural Metal Framing-Non Structural Metal Stud Framing",
+  "Data" : "DS",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "ProSTUD Drywall Studs",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non Structural Metal Framing-Non Structural Metal Stud Framing",
+  "Data" : "DT",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "ProTRAK Drywall Track",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non Structural Metal Framing-Tracks",
+  "Data" : "MT",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "MaxTrak 2D (SLT/H)",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non Structural Metal Framing-Tracks",
+  "Data" : "MT",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "MaxTrak (SLT)",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Lath",
+  "Data" : "CJ",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "#15 Control Joint",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Lath",
+  "Data" : "CJ",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "#15 XJ Control Joint",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Lath",
+  "Data" : "CB",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "#2A Expanded Corner Bead",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Lath",
+  "Data" : "JW",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "2\" J-Weep Low Back",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Lath",
+  "Data" : "CJ",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "#30 Inside Corner Control Joint",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Lath",
+  "Data" : "SS",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "#36 Sill Screed",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Lath",
+  "Data" : "ML",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "3/8\" High-Rib Metal Lath",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Lath",
+  "Data" : "SL",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "3/8\" Spray-Rib Lath",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Lath",
+  "Data" : "JW",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "3\" J-Weep High-Back",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Lath",
+  "Data" : "CB",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "#4 Short Flange Corner Bead",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Lath",
+  "Data" : "CB",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "#66N Zinc Short Flange Casing Bead",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Lath",
+  "Data" : "CB",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "#66X Casing Bead",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Lath",
+  "Data" : "BM",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "Barrier Mesh BM10",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Lath",
+  "Data" : "BM",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "Barrier Mesh BM15",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Lath",
+  "Data" : "BM",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "Barrier Mesh BM50",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Lath",
+  "Data" : "BM",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "Barrier Mesh BM75",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Lath",
+  "Data" : "SL",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "Diamond Security Lath",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Lath",
+  "Data" : "FHA",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "FHA-7 Weep (Sill) Screed",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Lath-Metal Lath",
+  "Data" : "FL",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "Dimple Self Furring Lath",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Lath-Metal Lath",
+  "Data" : "ML",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "Flat Diamond Mesh Lath",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Lath-Metal Lath",
+  "Data" : "PL",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "Paper-Backed Diamond Mesh Lath",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Lath-Metal Lath",
+  "Data" : "S",
+  "Manufacturer" : "Clark Dietrich",
+  "Product" : "Striplath",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings",
+  "Data" : "CS",
+  "Manufacturer" : "Conwed/ Owens Corning",
+  "Product" : "Respond Access Ceiling System",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "AC",
+  "Manufacturer" : "Conwed/ Owens Corning",
+  "Product" : "Respond Simple Texture - Paintable - Acoustical Ceilings",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings-Acoustical Panel Ceilings",
+  "Data" : "AC",
+  "Manufacturer" : "Conwed/ Owens Corning",
+  "Product" : "Respond Subtle Texture Acoustical Ceilings",
+  "Spec" : 9
+}, {
+  "Category" : "Woods,Plastics, and Composties-Maintenance of Wood,Plastics, and Composites",
+  "Data" : "RTU",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP Plastic Wood Solvent Wood Filler (RTU)",
+  "Spec" : 6
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work-Adhesives",
+  "Data" : "FA",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP BUTYL-FLEX Gutter and Flashing Adhesive",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work-Adhesives",
+  "Data" : "CA",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP Tub Surround & Shower Wall Construction Adhesive",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection",
+  "Data" : "WC",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP SEAL 'N PEEL Removable Weatherstrip Caulk",
+  "Spec" : 7
+}, {
+  "Category" : "Fire and Smoke Protection-Firestopping-Joint Stopping",
+  "Data" : "SS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP Fire Stop Silicone Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants",
+  "Data" : "APS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP 3.0 Advanced All-Purpose Sealant - Crystal Clear",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants",
+  "Data" : "MS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP 3.0 High Performance Concrete & Mortar Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants",
+  "Data" : "LC",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP ALEX Painter's Acrylic Latex Caulk",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants",
+  "Data" : "AC",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP KWIK SEAL PLUS Kitchen and Bath Adhesive Caulk",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants",
+  "Data" : "AC",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP KWIK SEAL Tub and Tile Adhesive Caulk",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants",
+  "Data" : "LC",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP RELY-ON Latex Caulk",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants",
+  "Data" : "WS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP SIDE WINDER Siding & Window Sealant - Clear",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants",
+  "Data" : "RS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP Watertight Roof Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "MS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP 100% Silicone Auto and Marine Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "GS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP 100% Silicone Gasket Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "AC",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP 3.0 Advanced Kitchen & Bath Adhesive Caulk",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "LC",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP ALEX Fast Dry Acrylic Latex Caulk Plus Silicone",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "LC",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP ALEX PLUS Acrylic Latex Adhesive Caulk Plus Silicone",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "LC",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP ALEX PLUS Acrylic Latex Caulk Plus Silicone",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "LC",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP ALEX PLUS Easy Caulk Acrylic Latex Caulk Plus Silicone",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "FS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP BUTYL-FLEX Gutter and Flashing Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "SS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP Commercial Kitchen 100% Silicone Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "PS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP DYNAFLEX 230 Premium Indoor/Outdoor Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "FS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP Flexible Clear Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "AS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP Household/Aquarium Adhesive Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "SS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP Kitchen and Bath 100% Silicone Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "AS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP Premium Polyurethane Adhesive Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "PS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP SIDE WINDER Advanced Polymer Siding & Window Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "SS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP Silicone Plus Premium Silicone Rubber Concrete & Masonry Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "SS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP Silicone Plus Premium Silicone Rubber Kitchen & Bath Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "SS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP Silicone Plus Premium Silicone Rubber Window & Door Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "FS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAPtex Plus Multi-Purpose Foam Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joints Sealants-Elastomeric  Joint Sealants",
+  "Data" : "SS",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP Window & Door 100% Silicone Rubber Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants-Foam Sealants",
+  "Data" : "FS",
+  "Manufacturer" : "DAP",
+  "Product" : "AP FIREBLOCK FOAM Polyurethane Foam Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Finishes-Common Work Results-Adhesives",
+  "Data" : "CA",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP BEATS THE NAIL Drywall Construction Adhesive",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Common Work Results-Adhesives",
+  "Data" : "TA",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP WELDWOOD Floor Tile Adhesive",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Common Work Results-Adhesives",
+  "Data" : "FA",
+  "Manufacturer" : "DAP",
+  "Product" : "DAP WELDWOOD Multi-Purpose Floor Adhesive",
+  "Spec" : 9
+}, {
+  "Category" : "Rough Carpentry-Sheathing-Insulating Sheathing",
+  "Data" : "SI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ DURAMATE™ Plus Insulation",
+  "Spec" : 6
+}, {
+  "Category" : "Rough Carpentry-Sheathing-Insulating Sheathing",
+  "Data" : "TS",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "THERMAX™ Sheathing",
+  "Spec" : 6
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work",
+  "Data" : "CT",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "WEATHERMATE™ Construction Tape",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work-Adhesives",
+  "Data" : "TA",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "Tile Bond Roof Tile Adhesive",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection",
+  "Data" : "WS",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "THERMAX™ Wall System",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation",
+  "Data" : "FG",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ Sill Seal Foam Gasket",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "SI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ WALLMATE™ Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "PI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "ISOCAST™ R Polyisocyanurate Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "CI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ CAVITYMATE™ Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "CPI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ CAVITYMATE™ Plus Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "SCI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ CAVITYMATE™ SC Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "UI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ CAVITYMATE™ Ultra Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "CI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ CLADMATE™ Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "DI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ DECKMATE™ Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "FI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ FREEZERMATE™ Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "20I",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ Panel Core 20 Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "30I",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ Panel Core 30 Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "40I",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ Panel Core 40 Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "UI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ PANELMATE™ and PANELMATE™ Ultra Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "SI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ PERIMATE™ Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "SI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ SCOREBOARD™ Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "PI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ SM Extruded Polystyrene Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "SI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ Square Edge Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "PI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ UTILITYFIT™ XPS 15 PSI Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "ZI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "STYROFOAM™ Z-MATE™ Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "CI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "TUFF-R™ Commercial / Super TUFF-R™ Commercial Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "SI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "TUFF-R™ Insulation / Super TUFF-R™ Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "EI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "THERMAX™ (ci) Exterior Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "HI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "THERMAX™ Heavy Duty Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "HPI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "THERMAX™ Heavy Duty Plus Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "LI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "THERMAX™ Light Duty Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "MB",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "THERMAX™ Metal Building Board",
+  "Spec" : 7
+}, {
+  "Category" : "Board Insulation-Foam Board Insulation-Polystyrene Board Insulation",
+  "Data" : "FI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "THERMAX™ White Finish Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Batt and Blanket Insulation",
+  "Data" : "FI",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "SAFETOUCH™ Fiberglass-Free Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants-Foam Sealants",
+  "Data" : "FS",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "ENERFOAM™ Professional Foam Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants-Foam Sealants",
+  "Data" : "FS",
+  "Manufacturer" : "Dow Building Solutions",
+  "Product" : "FROTH-PAK™ Foam Sealant Refillable Systems for Poultry Houses",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants",
+  "Data" : "DA",
+  "Manufacturer" : "Dow Corning",
+  "Product" : "Dow Corning DefendAir 200",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants-Elastomeric Joint Sealants",
+  "Data" : "BS",
+  "Manufacturer" : "Dow Corning",
+  "Product" : "Dow Corning 756 SMS Building Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Sealants-Elastomeric Joints Sealants-Joint Sealant Primers",
+  "Data" : "AP",
+  "Manufacturer" : "Dow Corning",
+  "Product" : "Dow Corning P5200 Adhesion Promotor",
+  "Spec" : 7
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Bonding Agents",
+  "Data" : "AC",
+  "Manufacturer" : "Dryvit",
+  "Product" : "AC-100",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Bonding Agents",
+  "Data" : "EPS",
+  "Manufacturer" : "Dryvit",
+  "Product" : "EPS Adhesive For Stucco",
+  "Spec" : 9
+}, {
+  "Category" : "Joint Protection-Preformed Joint Seals-Joint Fillers",
+  "Data" : "BS",
+  "Manufacturer" : "Emseal",
+  "Product" : "BACKERSEAL (Greyflex)",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants",
+  "Data" : "20H",
+  "Manufacturer" : "Emseal",
+  "Product" : "20H System",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants",
+  "Data" : "25V",
+  "Manufacturer" : "Emseal",
+  "Product" : "25V",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants",
+  "Data" : "AST",
+  "Manufacturer" : "Emseal",
+  "Product" : "AST Hi-Acrylic",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants",
+  "Data" : "IST",
+  "Manufacturer" : "Emseal",
+  "Product" : "IST Sealant Tapes",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "CS",
+  "Manufacturer" : "Emseal",
+  "Product" : "COLORSEAL",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "HC",
+  "Manufacturer" : "Emseal",
+  "Product" : "Horizontal Colorseal",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "FP",
+  "Manufacturer" : "Emseal",
+  "Product" : "Migua FP 55/...MS Brass Capped",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "SS",
+  "Manufacturer" : "Emseal",
+  "Product" : "Migua FP 55/...Ni Stainless Steel Capped",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "FP",
+  "Manufacturer" : "Emseal",
+  "Product" : "Migua FP 55 Series",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "FP",
+  "Manufacturer" : "Emseal",
+  "Product" : "Migua FP 60",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "SS",
+  "Manufacturer" : "Emseal",
+  "Product" : "Migua FP 60/...Ni Stainless Steel Capped",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "FP",
+  "Manufacturer" : "Emseal",
+  "Product" : "Migua FP 70",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "FS",
+  "Manufacturer" : "Emseal",
+  "Product" : "Migua FS 99/...all aluminum",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "FP",
+  "Manufacturer" : "Emseal",
+  "Product" : "MIGUTAN FP110",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "FS",
+  "Manufacturer" : "Emseal",
+  "Product" : "MIGUTRANS FS 100",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "FS",
+  "Manufacturer" : "Emseal",
+  "Product" : "MIGUTRANS FS 110",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "FS",
+  "Manufacturer" : "Emseal",
+  "Product" : "MIGUTRANS FS 130",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "FS",
+  "Manufacturer" : "Emseal",
+  "Product" : "MIGUTRANS FS 135/2500",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "FS",
+  "Manufacturer" : "Emseal",
+  "Product" : "MIGUTRANS FS 146",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "FS",
+  "Manufacturer" : "Emseal",
+  "Product" : "MIGUTRANS FS 155",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "FS",
+  "Manufacturer" : "Emseal",
+  "Product" : "MIGUTRANS FS 160",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "FS",
+  "Manufacturer" : "Emseal",
+  "Product" : "MIGUTRANS FS 185",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "FS",
+  "Manufacturer" : "Emseal",
+  "Product" : "MIGUTRANS FS 40",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "FS",
+  "Manufacturer" : "Emseal",
+  "Product" : "MIGUTRANS FS 50",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "FS",
+  "Manufacturer" : "Emseal",
+  "Product" : "MIGUTRANS FS 75",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "FSN",
+  "Manufacturer" : "Emseal",
+  "Product" : "MIGUTRANS FSN 50/15 Surface Mount",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "FSV",
+  "Manufacturer" : "Emseal",
+  "Product" : "MIGUTRANS FSV 235/4500",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "SC",
+  "Manufacturer" : "Emseal",
+  "Product" : "Seismic Colorseal",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "SJS",
+  "Manufacturer" : "Emseal",
+  "Product" : "SJS-FP-FR",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "SJS",
+  "Manufacturer" : "Emseal",
+  "Product" : "SJS Seismic Joint System",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "T",
+  "Manufacturer" : "Emseal",
+  "Product" : "Thermaflex",
+  "Spec" : 7
+}, {
+  "Category" : "Firestopping-Joint Firestopping-Head of Wall Joint Firestopping",
+  "Data" : "FTS",
+  "Manufacturer" : "Fire Trak",
+  "Product" : "Fire Trak System",
+  "Spec" : 7
+}, {
+  "Category" : "Firestopping-Joint Firestopping-Head of Wall Joint Firestopping",
+  "Data" : "PK",
+  "Manufacturer" : "Fire Trak",
+  "Product" : "Posi Klip",
+  "Spec" : 7
+}, {
+  "Category" : "Firestopping-Joint Firestopping-Head of Wall Joint Firestopping",
+  "Data" : "RK",
+  "Manufacturer" : "Fire Trak",
+  "Product" : "Redi Klip",
+  "Spec" : 7
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "CS",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "2-Piece Plaster Control Screed",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "SV",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "3/4\" Soffit Vent",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "DS",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "5/8\" Drip Screed",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "SV",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "5/8\" Soffit Vent",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "CS",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Channel Screed",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "CC",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Column Collar - Plaster",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "RM",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Contemporary Reveal Molding - Plaster",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "CK",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Corner Key",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "DS",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Drip Screed",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "CM",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Fascia Corner Molding",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "DC",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "F",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "WS",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Foundation Weep Screed",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "RM",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "F",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "JM",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "J",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "RM",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Plaster Key Reveal Molding",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "RM",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Reveal Molding - Plaster",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "SM",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Soffit Molding",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "SV",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Soffit Vent",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "SV",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Soffit Vent 3",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "SV",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Soffit Vent 4",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "DS",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Stucco Drip Screed",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "DS",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Thin Stucco Drip Screed",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "RM",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "T",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "SM",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Vented Soffit Molding",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "RM",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "V",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster and Gypsum Board-Plaster Accessories",
+  "Data" : "CM",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "X",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings - Acoustical Ceiling Suspension Assemblies - Accessories",
+  "Data" : "ACT",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Acoustical Ceiling Trim",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings - Acoustical Ceiling Suspension Assemblies - Accessories",
+  "Data" : "AM",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Acoustical Molding",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings - Acoustical Ceiling Suspension Assemblies - Accessories",
+  "Data" : "DR",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Drywall / Acoustical Reveal",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings - Acoustical Ceiling Suspension Assemblies - Accessories",
+  "Data" : "AR",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "F",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings - Acoustical Ceiling Suspension Assemblies - Accessories",
+  "Data" : "AT",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "J",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings - Acoustical Ceiling Suspension Assemblies - Accessories",
+  "Data" : "AR",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "W",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings - Acoustical Ceiling Suspension Assemblies - Accessories",
+  "Data" : "RM",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "W",
+  "Spec" : 9
+}, {
+  "Category" : "Wall Finishes-Special Wall Surfacing",
+  "Data" : "SS",
+  "Manufacturer" : "Fry Reglet",
+  "Product" : "Graph Surface System",
+  "Spec" : 9
+}, {
+  "Category" : "Sheathing-Wood Board Sheathing-Moisture Resistant",
+  "Data" : "OSB",
+  "Manufacturer" : "Georgia-Pacific",
+  "Product" : "DryGuard Enhanced OSB",
+  "Spec" : 6
+}, {
+  "Category" : "Sheathing-Wood Board Sheathing-Moisture Resistant",
+  "Data" : "OSB",
+  "Manufacturer" : "Georgia-Pacific",
+  "Product" : "DryMax High-Performance OSB",
+  "Spec" : 6
+}, {
+  "Category" : "Rough Carpentry - Sheathing - Gypsum Sheathing",
+  "Data" : "DS",
+  "Manufacturer" : "Georgia-Pacific",
+  "Product" : "DensGlass Sheathing",
+  "Spec" : 6
+}, {
+  "Category" : "Rough Carpentry - Sheathing - Gypsum Sheathing",
+  "Data" : "GS",
+  "Manufacturer" : "Georgia-Pacific",
+  "Product" : "ToughRock Gypsum Sheathing",
+  "Spec" : 6
+}, {
+  "Category" : "Plaster and Gypsum Board - Supports for Plaster and Gypsum Board - Veneer Plaster Base",
+  "Data" : "VP",
+  "Manufacturer" : "Georgia-Pacific",
+  "Product" : "ToughRock Veneer Plaster Base",
+  "Spec" : 9
+}, {
+  "Category" : "Joint Protection - Joint Sealants",
+  "Data" : "SP",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "Construction Sealant Primers",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants",
+  "Data" : "IG",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "IGS3743",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants",
+  "Data" : "RC",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "RCS20 Acoustical",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants",
+  "Data" : "WS",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "SCS7000 Weathersealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants",
+  "Data" : "AWB",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "SEC2500 SilShield AWB",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants",
+  "Data" : "SWS",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "SWS Weatherproofing Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants",
+  "Data" : "US",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "UltraSpan US1100",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants - Elastomeric Joint Sealants",
+  "Data" : "GS",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "Construction SCS1200 Silicone Glazing Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants - Elastomeric Joint Sealants",
+  "Data" : "GS",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "Contractors-N SCS1800 Silicone Glazing Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants - Elastomeric Joint Sealants",
+  "Data" : "IG",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "IGS3723",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants - Elastomeric Joint Sealants",
+  "Data" : "SCS",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "Sanitary SCS1700",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants - Elastomeric Joint Sealants",
+  "Data" : "SS",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "SCS1000 Contractors Silicone Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants - Elastomeric Joint Sealants",
+  "Data" : "SA",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "SCS2000 SilPruf Silicone Sealant & Adhesive",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants - Elastomeric Joint Sealants",
+  "Data" : "SS",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "SCS2350 Silicone Elastomeric Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants - Elastomeric Joint Sealants",
+  "Data" : "SCS",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "SCS2700 SilPruf LM",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants - Elastomeric Joint Sealants",
+  "Data" : "SCS",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "SCS9000 SilPruf NB",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants - Elastomeric Joint Sealants",
+  "Data" : "SCS",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "SilGlaze II SCS2800",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants - Elastomeric Joint Sealants",
+  "Data" : "SG",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "SilGlaze II SCS2811-D1",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants - Elastomeric Joint Sealants",
+  "Data" : "SSG",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "SSG4600 UltraGlaze",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants - Elastomeric Joint Sealants",
+  "Data" : "SSG",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "UltraGlaze SSG4000",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants - Elastomeric Joint Sealants",
+  "Data" : "SSG",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "UltraGlaze SSG4000AC",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants - Elastomeric Joint Sealants",
+  "Data" : "SSG",
+  "Manufacturer" : "GE Silicones",
+  "Product" : "UltraGlaze SSG4400",
+  "Spec" : 7
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "BC",
+  "Manufacturer" : "HILTI",
+  "Product" : "BC Beam Clamp",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "BC",
+  "Manufacturer" : "HILTI",
+  "Product" : "BC-WM Wide Mouth Beam Clamp",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "CN",
+  "Manufacturer" : "HILTI",
+  "Product" : "Channel Nut",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "CIS",
+  "Manufacturer" : "HILTI",
+  "Product" : "CIS Continuous Concrete Insert Strut",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "CI",
+  "Manufacturer" : "HILTI",
+  "Product" : "Concrete Spot Insert",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "HS",
+  "Manufacturer" : "HILTI",
+  "Product" : "Hilti Strut",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "IS",
+  "Manufacturer" : "HILTI",
+  "Product" : "Insulation Shields",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "LH",
+  "Manufacturer" : "HILTI",
+  "Product" : "LH Loop Hangers",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MEK",
+  "Manufacturer" : "HILTI",
+  "Product" : "MEK Strut Endcap",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQ",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQ 3D System",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQA",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQA-F Saddle Nut",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQB",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQB Clamps",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQK",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQK Angle Braces",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQK",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQK Brackets",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQM",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQM-F Strut Nut",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQN",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQN Pushbutton",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQP",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQP Heavy Bases",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQP",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQP Light Bases",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQV",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQV-12 Connector",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQV",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQV-2/2D",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQV",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQV-3/2D Connector",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQV",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQV-3/2D X Connector",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQV",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQV-3/3D",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQV",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQV-3/3D Connector",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQV",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQV-4/3D Connector",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQV",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQV Splice Plates",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQW",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQW-2/45, MQW-3/45, and MQW-8/45 Angles",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQW",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQW-2, MQW-3 Angles",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQW",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQW-Q2",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQZ",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQW-S/1 & MQW-S/2 Angle Brackets",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQZ",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQZ Base Plates",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "MQZ",
+  "Manufacturer" : "HILTI",
+  "Product" : "MQZ-SS Strut Tie",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "RC",
+  "Manufacturer" : "HILTI",
+  "Product" : "Riser Clamps",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "SDC",
+  "Manufacturer" : "HILTI",
+  "Product" : "SDC Standard Duty Clevis Hanger",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "SH",
+  "Manufacturer" : "HILTI",
+  "Product" : "Seismic Hinge",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "SLC",
+  "Manufacturer" : "HILTI",
+  "Product" : "SLC Speed Lock Clevis",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "RH",
+  "Manufacturer" : "HILTI",
+  "Product" : "Split Ring Hangers",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "UB",
+  "Manufacturer" : "HILTI",
+  "Product" : "Standard U-Bolt",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "SC",
+  "Manufacturer" : "HILTI",
+  "Product" : "Steel C-clamp with lock nut",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "CL",
+  "Manufacturer" : "HILTI",
+  "Product" : "Strut Beam Clamp",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "SC",
+  "Manufacturer" : "HILTI",
+  "Product" : "Strut Clamps",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "BC",
+  "Manufacturer" : "HILTI",
+  "Product" : "Tapped Side Beam Connector",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "TR",
+  "Manufacturer" : "HILTI",
+  "Product" : "Threaded Rod",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "RS",
+  "Manufacturer" : "HILTI",
+  "Product" : "Vertical Rod Stiffener - Internal and External",
+  "Spec" : 5
+}, {
+  "Category" : "Joint Firestopping - Firestopping - Fire and Smoke Protection",
+  "Data" : "FS",
+  "Manufacturer" : "HILTI",
+  "Product" : "CP 601S Elastomeric Firestop Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Firestopping - Firestopping - Fire and Smoke Protection",
+  "Data" : "FS",
+  "Manufacturer" : "HILTI",
+  "Product" : "CP 606 Flexible Firestop Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Firestopping - Firestopping - Fire and Smoke Protection",
+  "Data" : "SS",
+  "Manufacturer" : "HILTI",
+  "Product" : "CP 767 Speed Strips",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Firestopping - Firestopping - Fire and Smoke Protection",
+  "Data" : "SP",
+  "Manufacturer" : "HILTI",
+  "Product" : "CP 777 Speed Plugs",
+  "Spec" : 7
+}, {
+  "Category" : "Fire and Smoke Protection - Firestopping - Electrical Outlet Firestopping",
+  "Data" : "FB",
+  "Manufacturer" : "HILTI",
+  "Product" : "Firestop Box Insert",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection - Joint Sealants - Foam Sealants",
+  "Data" : "CF",
+  "Manufacturer" : "HILTI",
+  "Product" : "CF 116 Filler Foam",
+  "Spec" : 7
+}, {
+  "Category" : "Rough Carpentry-Sheathing-Underlayment",
+  "Data" : "FD",
+  "Manufacturer" : "Homasote",
+  "Product" : "Homasote 4-Way Floor Decking",
+  "Spec" : 6
+}, {
+  "Category" : "Rough Carpentry-Sheathing-Insulating Sheathing",
+  "Data" : "TG",
+  "Manufacturer" : "Insulfoam",
+  "Product" : "T&G Sheathing",
+  "Spec" : 6
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "IK",
+  "Manufacturer" : "Insulfoam",
+  "Product" : "Garage Door Insulation Kit",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "IF",
+  "Manufacturer" : "Insulfoam",
+  "Product" : "InsulFoam 40",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "IF",
+  "Manufacturer" : "Insulfoam",
+  "Product" : "InsulFoam 60",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "IF",
+  "Manufacturer" : "Insulfoam",
+  "Product" : "InsulFoam DB",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Roof and Deck Insulation-Roof Board Insulation",
+  "Data" : "HD",
+  "Manufacturer" : "Insulfoam",
+  "Product" : "InsulFoam HD Composite",
+  "Spec" : 7
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "ATM",
+  "Manufacturer" : "JL Industries",
+  "Product" : "ATM Series - Gasketed Access Panel",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "FD",
+  "Manufacturer" : "JL Industries",
+  "Product" : "FD2 Series - 2 Hour Fire-Rated Access Panels for Ceilings",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "FD",
+  "Manufacturer" : "JL Industries",
+  "Product" : "FD3D Series - 3 Hour Fire-Rated Access Panel Double Door",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "FD",
+  "Manufacturer" : "JL Industries",
+  "Product" : "FD3 Series - 3 Hour Fire-Rated Access Panels for Ceilings/Walls",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "FD",
+  "Manufacturer" : "JL Industries",
+  "Product" : "FD & FDSS Series - 1 HR Combustible Ceiling Fire Rated Access Doors",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "FD",
+  "Manufacturer" : "JL Industries",
+  "Product" : "FD & FDSS Series - 3 HR Non-Combustible Ceiling Fire-Rated Access Doors",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "CP",
+  "Manufacturer" : "JL Industries",
+  "Product" : "Model CP - Flush Access Panels",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "CT",
+  "Manufacturer" : "JL Industries",
+  "Product" : "Model CT - Flush Access Panels",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "CTWB",
+  "Manufacturer" : "JL Industries",
+  "Product" : "Model CTWB - Flush Access Panels",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "HSP",
+  "Manufacturer" : "JL Industries",
+  "Product" : "Model HSP Security Access Panels",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "PW",
+  "Manufacturer" : "JL Industries",
+  "Product" : "Models PW and PWE Flush Access Panels",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "TM",
+  "Manufacturer" : "JL Industries",
+  "Product" : "Models TM and TMS Flush Access Panels",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "WB",
+  "Manufacturer" : "JL Industries",
+  "Product" : "Model WB Flush Access Panels",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "SP",
+  "Manufacturer" : "JL Industries",
+  "Product" : "Security Access Panels Model SP",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "SMT",
+  "Manufacturer" : "JL Industries",
+  "Product" : "SMT Series - Surface Mount Access Panel SMT Series",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Panels and Frames",
+  "Data" : "AP",
+  "Manufacturer" : "JL Industries",
+  "Product" : "Exterior Access Panel: Model XPA & XPS",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Panels and Frames",
+  "Data" : "AP",
+  "Manufacturer" : "JL Industries",
+  "Product" : "Exterior Access Panel: Model XPA-PWE & XPS-PWE",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Panels and Frames",
+  "Data" : "WB",
+  "Manufacturer" : "JL Industries",
+  "Product" : "WB Exterior 1300 T-Handle Series Access Door 41",
+  "Spec" : 8
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work Results for Thermal and Moisture Protection-Adhesives",
+  "Data" : "IA",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "JM Green Two-Part Urethane Insulation Adhesive",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work Results for Thermal and Moisture Protection-Adhesives",
+  "Data" : "AF",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "Polymer Auger Fasteners",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work Results for Thermal and Moisture Protection-Adhesives",
+  "Data" : "TG",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "TopGard 5000",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work Results for Thermal and Moisture Protection-Fasteners",
+  "Data" : "PVC",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "JM PVC RhinoPlate",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work Results for Thermal and Moisture Protection-Fasteners",
+  "Data" : "TPO",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "JM TPO RhinoPlate",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection",
+  "Data" : "EI",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "1000 Series Spin-Glas - Pipe & Equipment Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection",
+  "Data" : "FS",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "CI Max Polyisocyanurate Foam Sheathing",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection",
+  "Data" : "SG",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "Precipitator Spin-Glas",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "FF",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "AP Foil-Faced",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Semi-Rigid Panel Insulation",
+  "Data" : "FB",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "Fabrication Board",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Semi-Rigid Panel Insulation",
+  "Data" : "IS",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "Insul-SHIELD",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "CT",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "ComfortTherm",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "EF",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "EasyFit",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "FSK",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "FSK-25 Faced Batts",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "UI",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "JM Unfaced Formaldehyde-free Fiber Glass Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "BR",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "Kraft-Faced Batts & Rolls",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "EX",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "Expand-O-Flash",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "EX",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "Expand-O-Flash EJ/WC",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "EX",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "Expand-O-Flash Factory-fabricated Intersections",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "EX",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "Expand-O-Flash PVC EJ/WC",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "EX",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "Expand-O-Flash Roof Edge Transition Details",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "EX",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "Expand-O-Flash Roof Expansion Joint Covers",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "EX",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "Expand-O-Gard",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "EX",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "Expand-O-Gard Style F Transitions",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Expansion Control-Expansion Joint Cover Assemblies",
+  "Data" : "EX",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "Expand-O-Gard Style F Vertical Expansion Joints",
+  "Spec" : 7
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "KDW",
+  "Manufacturer" : "Karp",
+  "Product" : "Model KDW Flush Drywall Access Door",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "CAD",
+  "Manufacturer" : "Karp",
+  "Product" : "Model KSTC/CAD (Concealed Grid) Ceiling Access Hatches",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "AD",
+  "Manufacturer" : "Karp",
+  "Product" : "Model KSTDW Sesame Access Door",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "CAD",
+  "Manufacturer" : "Karp",
+  "Product" : "Model KSTE/CAD (Exposed Grid) Ceiling Access Hatches",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "MX",
+  "Manufacturer" : "Karp",
+  "Product" : "Model MX Insulated Exterior Access Door",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "PF",
+  "Manufacturer" : "Karp",
+  "Product" : "Model PF Press-Fit Access Door",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "RDW",
+  "Manufacturer" : "Karp",
+  "Product" : "Model RDW Recessed Door to Receive Drywall",
+  "Spec" : 8
+}, {
+  "Category" : "Access Doors and Panels-Access Doors and Frames-Fire Rated",
+  "Data" : "AD",
+  "Manufacturer" : "Karp",
+  "Product" : "Model KATR Fire Resistive Access Door",
+  "Spec" : 8
+}, {
+  "Category" : "Access Doors and Panels-Access Doors and Frames-Fire Rated",
+  "Data" : "KPR",
+  "Manufacturer" : "Karp",
+  "Product" : "Model KRP-150FR Universal Fire Rated Access Door",
+  "Spec" : 8
+}, {
+  "Category" : "Access Doors and Panels-Access Doors and Frames-Fire Rated",
+  "Data" : "KPR",
+  "Manufacturer" : "Karp",
+  "Product" : "Model KRP-250FR Non-Insulated Fire Rated Access Door",
+  "Spec" : 8
+}, {
+  "Category" : "Access Doors and Panels-Access Doors and Frames-Fire Rated",
+  "Data" : "KPR",
+  "Manufacturer" : "Karp",
+  "Product" : "Model KRP-350FR Insulated Fire Rated Access Door with Drywall Bead",
+  "Spec" : 8
+}, {
+  "Category" : "Access Doors and Panels-Access Doors and Frames-Fire Rated",
+  "Data" : "KPR",
+  "Manufacturer" : "Karp",
+  "Product" : "Model KRP-450FR Non-Insulated Fire Rated Access Door with Drywall Bead",
+  "Spec" : 8
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation",
+  "Data" : "ES",
+  "Manufacturer" : "Knauf Insulation",
+  "Product" : "Knauf Insulation EcoSeal",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation",
+  "Data" : "JS",
+  "Manufacturer" : "Knauf Insulation",
+  "Product" : "Knauf Insulation Jet Stream® ULTRA Fiber Glass Blowing Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation",
+  "Data" : "MB",
+  "Manufacturer" : "Knauf Insulation",
+  "Product" : "Knauf Insulation Metal Building Insulation with ECOSE® Technology",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation",
+  "Data" : "TI",
+  "Manufacturer" : "Knauf Insulation",
+  "Product" : "Knauf Insulation Theater Insulation with ECOSE® Technology",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Board Insulation",
+  "Data" : "IB",
+  "Manufacturer" : "Knauf Insulation",
+  "Product" : "Knauf Insulation Board with ECOSE® Technology",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "EB",
+  "Manufacturer" : "Knauf Insulation",
+  "Product" : "Knauf EcoBatt® Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "SF",
+  "Manufacturer" : "Knauf Insulation",
+  "Product" : "Knauf Insulation Staple-Free Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "KN",
+  "Manufacturer" : "Knauf Insulation",
+  "Product" : "Knauf Insulation Type KN Series with ECOSE® Technology",
+  "Spec" : 7
+}, {
+  "Category" : "Structural Metal Framing",
+  "Data" : "HDW",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Heavy Duty Washer (HDW)",
+  "Spec" : 5
+}, {
+  "Category" : "Cold Formed Metal Framing",
+  "Data" : "CRC",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Cold Rolled Channel (CRC)",
+  "Spec" : 5
+}, {
+  "Category" : "Cold Formed Metal Framing",
+  "Data" : "FS",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Flat Strap (FS)",
+  "Spec" : 5
+}, {
+  "Category" : "Cold Formed Metal Framing",
+  "Data" : "ST",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Structural Deep Leg Track",
+  "Spec" : 5
+}, {
+  "Category" : "Cold Formed Metal Framing",
+  "Data" : "UA",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Utility Angle (UA)",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold-Formed Metal Framing Connectors",
+  "Data" : "BA",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Breakaway Clips (BA)",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold-Formed Metal Framing Connectors",
+  "Data" : "BR",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "BridgeRite Clips (BR)",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold-Formed Metal Framing Connectors",
+  "Data" : "G",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Grommet",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold-Formed Metal Framing Connectors",
+  "Data" : "GP",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Gusset Plate (Unpunched) (GP)",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold-Formed Metal Framing Connectors",
+  "Data" : "KB",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Katz Blocking (KB)",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold-Formed Metal Framing Connectors",
+  "Data" : "O",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Outrigger",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold-Formed Metal Framing Connectors",
+  "Data" : "RCC",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Rigid Clip Connector (RCC)",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold-Formed Metal Framing Connectors",
+  "Data" : "JB",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Solid Blocking (JB)",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold-Formed Metal Framing Connectors",
+  "Data" : "UA",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Utility Clips (UA)",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold-Formed Metal Framing Connectors",
+  "Data" : "JS",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Web Stiffener (JS)",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold-Formed Metal Framing Connectors",
+  "Data" : "WSC",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "WSC 950 & WSC 1500",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing-Structural Metal Stud Framing",
+  "Data" : "QF",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "QuickFrame Rough Opening System",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing-Structural Metal Stud Framing",
+  "Data" : "SS",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Structural Stud",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing-Structural Metal Stud Framing",
+  "Data" : "SR",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "StudRite",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing-Structural Metal Stud Framing-Structural Metal Stud Framing Tracks",
+  "Data" : "ST",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Structural Track (1¼ Leg)",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing-Cold-Formed Metal Joist Framing",
+  "Data" : "JR",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "JoistRite",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing-Cold-Formed Metal Joist Framing",
+  "Data" : "FJ",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Sure-Span SSCJ Floor Joists",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing-Cold-Formed Metal Trusses",
+  "Data" : "TR",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "TrussRite",
+  "Spec" : 5
+}, {
+  "Category" : "Finishes-Plaster Accessories-Plaster Accessories",
+  "Data" : "CB",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "1-A Expanded Corner Bead",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster Accessories-Plaster Accessories",
+  "Data" : "CB",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "#66 Expanded Flange Casing Bead",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster Accessories-Plaster Accessories",
+  "Data" : "EJ",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Double V Expansion Joint",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster Accessories-Plaster Accessories",
+  "Data" : "CB",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Double X Corner Bead",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster Accessories-Plaster Accessories",
+  "Data" : "CB",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "K-Rite Corner Bead",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster Accessories-Plaster Accessories",
+  "Data" : "CB",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Veneer Corner Bead",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster Accessories-Plaster Accessories",
+  "Data" : "LT",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Veneer L Trim",
+  "Spec" : 9
+}, {
+  "Category" : "Finishes-Plaster Accessories-Plaster Accessories",
+  "Data" : "CJ",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Zinc Control Joint 093",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board Assemblies-Gypsum Board Assemblies-Gypsum Board Area Separation Wall Assemblies",
+  "Data" : "CT",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "CT-Stud Shaftwall System",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Plaster and Gypsum Board Assemblies-Gypsum Board Assemblies",
+  "Data" : "HS",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "H-Stud Area Separation Wall System",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non-Structural Metal Framing-Tracks",
+  "Data" : "JT",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Jamb Track",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non-Structural Metal Framing-Tracks",
+  "Data" : "SLT",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Slotted Slip Track (SLT)",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non-Structural Metal Framing-Tracks",
+  "Data" : "UT",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "U-Flex Track",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non-Structural Metal Framing-Tracks",
+  "Data" : "VT",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "ViperTrack",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Lath-Metal Lath",
+  "Data" : "HR",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "3/8\" High Rib Lath",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Lath-Metal Lath",
+  "Data" : "C",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Cornerite",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Lath-Metal Lath",
+  "Data" : "DL",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Diamond Mesh Lath",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Lath-Metal Lath",
+  "Data" : "DL",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Paperbacked Diamond Mesh Lath",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Lath-Metal Lath",
+  "Data" : "VL",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Paperbacked V-Groove Mesh Lath",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Lath-Metal Lath",
+  "Data" : "DL",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Self-Furring Diamond Mesh Lath",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Lath-Metal Lath",
+  "Data" : "SL",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "Strip Lath",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Lath-Metal Lath",
+  "Data" : "VL",
+  "Manufacturer" : "MarinoWare",
+  "Product" : "V-Groove Mesh Lath",
+  "Spec" : 9
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "CRC",
+  "Manufacturer" : "MBAstuds",
+  "Product" : "CRC Clip",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "WS",
+  "Manufacturer" : "MBAstuds",
+  "Product" : "Web Stiffener",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing-Structural Metal Stud Framing",
+  "Data" : "JH",
+  "Manufacturer" : "MBAstuds",
+  "Product" : "Jamb and Header System",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing-Structural Metal Stud Framing",
+  "Data" : "SS",
+  "Manufacturer" : "MBAstuds",
+  "Product" : "Structural Studs",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing-Structural Metal Stud Framing",
+  "Data" : "ST",
+  "Manufacturer" : "MBAstuds",
+  "Product" : "Structural Tracks",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing-Structural Metal Stud Framing-Structural Metal Stud Framing Tracks",
+  "Data" : "ST",
+  "Manufacturer" : "MBAstuds",
+  "Product" : "Slotted Track",
+  "Spec" : 5
+}, {
+  "Category" : "Plaster Accessories-Supports for Plaster and Gypsum Board-Metal Support Assembly Accessories",
+  "Data" : "FCC",
+  "Manufacturer" : "MBAstuds",
+  "Product" : "Furring Channel Clip",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster Accessories-Supports for Plaster and Gypsum Board-Metal Support Assembly Accessories",
+  "Data" : "FC",
+  "Manufacturer" : "MBAstuds",
+  "Product" : "Furring Channel (FC)",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster Accessories-Supports for Plaster and Gypsum Board-Metal Support Assembly Accessories",
+  "Data" : "RC",
+  "Manufacturer" : "MBAstuds",
+  "Product" : "Resilient Channel",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non-Structural Metal Framing",
+  "Data" : "SS",
+  "Manufacturer" : "MBAstuds",
+  "Product" : "Shaftwall System",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non-Structural Metal Framing-Non-Structural Metal Stud Framing",
+  "Data" : "DS",
+  "Manufacturer" : "MBAstuds",
+  "Product" : "Drywall Studs",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non-Structural Metal Framing-Non-Structural Metal Stud Framing",
+  "Data" : "DT",
+  "Manufacturer" : "MBAstuds",
+  "Product" : "Drywall Tracks",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non-Structural Metal Framing-Non-Structural Metal Stud Framing",
+  "Data" : "PS",
+  "Manufacturer" : "MBAstuds",
+  "Product" : "ProSTUD Drywall Framing",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non-Structural Metal Framing-Non-Structural Metal Stud Framing",
+  "Data" : "PT",
+  "Manufacturer" : "MBAstuds",
+  "Product" : "ProTRAK Drywall Framing",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non-Structural Metal Framing-Non-Structural Metal Stud Framing",
+  "Data" : "ZF",
+  "Manufacturer" : "MBAstuds",
+  "Product" : "Z-Furring",
+  "Spec" : 9
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "FD",
+  "Manufacturer" : "Milcor",
+  "Product" : "Aluminum Non-Security Floor Door (Model Nos. F, T and Z)",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "FD",
+  "Manufacturer" : "Milcor",
+  "Product" : "Aluminum Security Floor Door (Model Nos. F and T)",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "CD",
+  "Manufacturer" : "Milcor",
+  "Product" : "Customized Doors for Special Applications",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "SD",
+  "Manufacturer" : "Milcor",
+  "Product" : "Fire Resistive Steel Doors for Suspended Ceilings (Style ATR)",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "AD",
+  "Manufacturer" : "Milcor",
+  "Product" : "Flush Aluminum Doors for Suspended Ceilings (Style CF)",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "FD",
+  "Manufacturer" : "Milcor",
+  "Product" : "Flush Cover Security Floor Door (Model Nos. FA, FM, FC and ZA)",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "AD",
+  "Manufacturer" : "Milcor",
+  "Product" : "Recessed Aluminum Doors for Suspended Ceilings (Style CT)",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "RD",
+  "Manufacturer" : "Milcor",
+  "Product" : "Recessed Door for Acoustical Plaster Ceilings (Style AP)",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "SD",
+  "Manufacturer" : "Milcor",
+  "Product" : "Sidewalk Door (Steel and Aluminum) (Model Nos. GA, GM and GD)",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "TB",
+  "Manufacturer" : "Milcor",
+  "Product" : "Single-leaf Torsion Bar Spring Mounted in Cover (Model Nos. M and RS)",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "TB",
+  "Manufacturer" : "Milcor",
+  "Product" : "Single-leaf Torsion Bar Spring Mounted in Frame (Model No. R)",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "FD",
+  "Manufacturer" : "Milcor",
+  "Product" : "Standard Flush Door for Drywall Ceilings or Walls (Style DW)",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "FD",
+  "Manufacturer" : "Milcor",
+  "Product" : "Standard Flush Door for Drywall, Masonry or Tile Walls (Style M or MS)",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "FD",
+  "Manufacturer" : "Milcor",
+  "Product" : "Standard Flush Door for Plaster Walls or Ceilings (Style K)",
+  "Spec" : 8
+}, {
+  "Category" : "Specialty Doors and Frames-Access Doors and Panels-Access Doors and Frames",
+  "Data" : "SD",
+  "Manufacturer" : "Milcor",
+  "Product" : "Steel Doors for Suspended Ceilings (Style AT)",
+  "Spec" : 8
+}, {
+  "Category" : "Access Doors and Panels-Access Doors and Frames-Fire Rated",
+  "Data" : "UFR",
+  "Manufacturer" : "Milcor",
+  "Product" : "Universal Fire-Rated Access Doors for Walls and Ceilings (Style UFR)",
+  "Spec" : 8
+}, {
+  "Category" : "Rough Carpetnry-Sheathing-Gypsum Sheathing",
+  "Data" : "XP",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond BRAND eXP Extended Exposure Sheathing",
+  "Spec" : 6
+}, {
+  "Category" : "Rough Carpetnry-Sheathing-Gypsum Sheathing",
+  "Data" : "GS",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond BRAND Gypsum Sheathing",
+  "Spec" : 6
+}, {
+  "Category" : "Plaster and Gypsum Board Assemblies-Gypsum Board Assemblies-Gypsum Board Shaft Wall Assemblies",
+  "Data" : "SS",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond BRAND Cavity Shaftwall Systems",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board Assemblies-Gypsum Board Assemblies-Gypsum Board Shaft Wall Assemblies",
+  "Data" : "SS",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "I-STUD Cavity Shaftwall System for Horizontal Duct Protection",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Lath-Gypsum Lath",
+  "Data" : "PB",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond BRAND Kal-Kore Plaster Base",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Gypsum Plastering",
+  "Data" : "GP",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond BRAND Gauging Plaster",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Gypsum Plastering",
+  "Data" : "GP",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond BRAND Gypsolite Plaster",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Gypsum Plastering",
+  "Data" : "GP",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond BRAND Two-Way Hardwall Gypsum Plaster",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Gypsum Plastering-Casting Plaster",
+  "Data" : "MP",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond BRAND Moulding Plaster",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Gypsum-Panel Textured Ceilings",
+  "Data" : "CP",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond BRAND Gridstone CleanRoom Gypsum Ceiling Panels",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Gypsum-Panel Textured Ceilings",
+  "Data" : "XP",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond BRAND XP Fire-Shield Gypsum Board",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Gypsum-Panel Textured Ceilings",
+  "Data" : "CP",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gridstone BRAND Gypsum Ceiling Panels",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings-Textured Ceilings-Gypsum-Panel Textured Ceilings",
+  "Data" : "CP",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gridstone BRAND Hi-Strength Gypsum Ceiling Panels",
+  "Spec" : 9
+}, {
+  "Category" : "Rough Carpentry-Sheathing-Insulating Sheathing",
+  "Data" : "IS",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "FOAMULAR Insulating Sheathing",
+  "Spec" : 6
+}, {
+  "Category" : "Rough Carpentry-Sheathing-Insulating Sheathing",
+  "Data" : "IS",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "PROPINK Reinforced Insulating Sheathing",
+  "Spec" : 6
+}, {
+  "Category" : "Rough Carpentry-Sheathing-Insulating Sheathing",
+  "Data" : "FI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "PROPINK Rigid Foam Insulation",
+  "Spec" : 6
+}, {
+  "Category" : "Thermal Protection",
+  "Data" : "CT",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "Bild-R-Tape Construction Tape",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection - Thermal Insulation",
+  "Data" : "SI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "Attic Stairway Insulator",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection - Thermal Insulation",
+  "Data" : "FI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "EcoTouch PINK FIBERGLAS Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection - Thermal Insulation",
+  "Data" : "FS",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "FoamSealR",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection - Thermal Insulation",
+  "Data" : "UB",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "Metal Building Utility Blanket",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection - Thermal Insulation",
+  "Data" : "LS",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "OptiLiner Banded Liner System",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection - Thermal Insulation",
+  "Data" : "BT",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "PROPINK Butyl Tape",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Insulation-Rigid Panel Insulation-Polystyrene Rigid Panels",
+  "Data" : "PI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "FOAMULAR InsulPink Extruded Polystyrene Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Semi-Rigid Panel Insulation",
+  "Data" : "CI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "Curtainwall Insulation / CW 225",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Semi-Rigid Panel Insulation",
+  "Data" : "MI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "Marine Insulation Mineral Wool",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Semi-Rigid Panel Insulation",
+  "Data" : "GD",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "Owens Corning's Garage Door Insulation Kit",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "MI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "EcoTouch Insulation with PureFifber Technology Metal Building Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "FSK",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "Flame Spread 25 FIBERGLAS Insulation (FSK)",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "PSK",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "Flame Spread 25 FIBERGLAS Insulation (PSK)",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "MBI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "MBI Plus",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "FI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "PINK Fiber Glass Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "PI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "ProPINK FastBatt Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "FI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "R-15 High Density FIBERGLAS Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "FI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "R-21 High Density FIBERGLAS Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "FI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "R-30C FIBERGLAS Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "FI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "R-38C FIBERGLAS Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "SI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "Shaftwall Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "SI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "Sonobatts Kraft-Faced Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "SI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "Sonobatts Unfaced Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "FI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "Thermal Batt Foil-Faced FIBERGLAS Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "FI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "Thermal Batt Kraft-Faced FIBERGLAS Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal Insulation-Blanket Insulation",
+  "Data" : "FI",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "Thermal Batt Unfaced FIBERGLAS Insulation",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants-Acoustical Joint Sealants",
+  "Data" : "AS",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "QuietZone Acoustic Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Ceilings-Specialty Ceilings-Stretched-Fabric Ceiling Systems",
+  "Data" : "CS",
+  "Manufacturer" : "Owens Corning",
+  "Product" : "QuietZone Solserene Fabric Ceiling System",
+  "Spec" : 9
+}, {
+  "Category" : "Rough Carpentry-Sheathing-Gypsum Sheathing",
+  "Data" : "ES",
+  "Manufacturer" : "Pabco Gypsum",
+  "Product" : "PABCO GLASS Exterior Sheathing",
+  "Spec" : 6
+}, {
+  "Category" : "Rough Carpentry-Sheathing-Gypsum Sheathing",
+  "Data" : "GS",
+  "Manufacturer" : "Pabco Gypsum",
+  "Product" : "PABCO Gypsum Sheathing",
+  "Spec" : 6
+}, {
+  "Category" : "Joint Protection-Joint Sealants-Acoustical Joint Sealants",
+  "Data" : "QS",
+  "Manufacturer" : "Pabco Gypsum",
+  "Product" : "QuietSeal Pro",
+  "Spec" : 7
+}, {
+  "Category" : "Plaster and Gypsum Board Assemblies-Gypsum Board Assemblies-Gypsum Board Area Separation Wall Assemblies",
+  "Data" : "PS",
+  "Manufacturer" : "Pabco Gypsum",
+  "Product" : "PABCORE Shaftliner",
+  "Spec" : 9
+}, {
+  "Category" : "Cold-Formed Metal Framing",
+  "Data" : "CF",
+  "Manufacturer" : "Radius Track",
+  "Product" : "Curved-Right Custom Framing",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing",
+  "Data" : "RT",
+  "Manufacturer" : "Radius Track",
+  "Product" : "Radius Track Pre-Engineered Domes",
+  "Spec" : 5
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non-Structural Metal Framing",
+  "Data" : "RA",
+  "Manufacturer" : "Radius Track",
+  "Product" : "Ready-Angle",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non-Structural Metal Framing",
+  "Data" : "RA",
+  "Manufacturer" : "Radius Track",
+  "Product" : "Ready-Arch",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non-Structural Metal Framing",
+  "Data" : "RH",
+  "Manufacturer" : "Radius Track",
+  "Product" : "Ready-Hat",
+  "Spec" : 9
+}, {
+  "Category" : "Plaster and Gypsum Board-Supports for Plaster and Gypsum Board-Non-Structural Metal Framing",
+  "Data" : "RT",
+  "Manufacturer" : "Radius Track",
+  "Product" : "Ready-Track",
+  "Spec" : 9
+}, {
+  "Category" : "Joint Protection-Joint Sealants-Acoustical Joint Sealants",
+  "Data" : "SS",
+  "Manufacturer" : "Ramset",
+  "Product" : "Ramset Water-Based Sound Control Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Cold-Formed Metal Framing",
+  "Data" : "JS",
+  "Manufacturer" : "Scafco",
+  "Product" : "Priceless Header and Kwik-Jamb System",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing",
+  "Data" : "SFS",
+  "Manufacturer" : "Scafco",
+  "Product" : "Supreme Framing System",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "DC",
+  "Manufacturer" : "Scafco",
+  "Product" : "Bypass Slab Drift Clip \"DPLC2",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "DS",
+  "Manufacturer" : "Scafco",
+  "Product" : "Bypass Slab Drift Strut \"DPLS2",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "AC",
+  "Manufacturer" : "Scafco",
+  "Product" : "Bypass Slab Secure Clip \"AC",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "SC",
+  "Manufacturer" : "Scafco",
+  "Product" : "Bypass Slab Slide Clip \"PLC2",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "SC",
+  "Manufacturer" : "Scafco",
+  "Product" : "Bypass Slab Slide Clip \"PLC3",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "SS",
+  "Manufacturer" : "Scafco",
+  "Product" : "Bypass Slab Slide Strut \"PLS2",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "SS",
+  "Manufacturer" : "Scafco",
+  "Product" : "Bypass Slab Slide Strut \"PLS3",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "STP",
+  "Manufacturer" : "Scafco",
+  "Product" : "Bypass Slab Top Plate \"STP",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "ISC",
+  "Manufacturer" : "Scafco",
+  "Product" : "Interior Head of Wall Deflection Slide Clip \"ISC",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "AS",
+  "Manufacturer" : "Scafco",
+  "Product" : "Load-Bearing Secure Strut \"AS",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "MA",
+  "Manufacturer" : "Scafco",
+  "Product" : "Multi-Use Secure Clip \"MA",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "MB",
+  "Manufacturer" : "Scafco",
+  "Product" : "Multi-Use Secure Clip \"MB",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "MC",
+  "Manufacturer" : "Scafco",
+  "Product" : "Multi-Use Secure Clip \"MC",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "BC",
+  "Manufacturer" : "Scafco",
+  "Product" : "Secure Bridge Clip \"BC",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "FA",
+  "Manufacturer" : "Scafco",
+  "Product" : "Secure Floor Anchor Clip \"FA",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "SS",
+  "Manufacturer" : "Scafco",
+  "Product" : "Secure Floor Strapping \"SS",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "HG",
+  "Manufacturer" : "Scafco",
+  "Product" : "Secure Plate Header Gusset \"HG",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "TB",
+  "Manufacturer" : "Scafco",
+  "Product" : "Solid Track Blocking \"TB",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "WT",
+  "Manufacturer" : "Scafco",
+  "Product" : "Splicing Slide Clip & Rigid Wall Tie \"SSWT",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "TT",
+  "Manufacturer" : "Scafco",
+  "Product" : "Truss Tie Secure Clip \"TT",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "KB",
+  "Manufacturer" : "Scafco",
+  "Product" : "Wall Support Backing Kwik-Back \"KB",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "WT",
+  "Manufacturer" : "Scafco",
+  "Product" : "Wall Tie Secure Clip \"WT",
+  "Spec" : 5
+}, {
+  "Category" : "Metals-Cold-Formed Metal Framing-Cold Formed Metal Framing Accessories",
+  "Data" : "WST",
+  "Manufacturer" : "Scafco",
+  "Product" : "Web Stiffener Track \"WST",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Structural Metal Stud Framing",
+  "Data" : "DT",
+  "Manufacturer" : "Scafco",
+  "Product" : "Drain Track System \"DT",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Structural Metal Stud Framing",
+  "Data" : "IS",
+  "Manufacturer" : "Scafco",
+  "Product" : "I-Stud Shaftwall System",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Structural Metal Stud Framing",
+  "Data" : "K",
+  "Manufacturer" : "Scafco",
+  "Product" : "Kwik-Bridge Punch Systems \"K",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Structural Metal Stud Framing",
+  "Data" : "S",
+  "Manufacturer" : "Scafco",
+  "Product" : "Scafco Structural (S) Stud",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing-Structural Metal Stud Framing-Structural Metal Stud Framing Tracks",
+  "Data" : "BS",
+  "Manufacturer" : "Scafco",
+  "Product" : "Custom Brake Shapes",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing-Structural Metal Stud Framing-Structural Metal Stud Framing Tracks",
+  "Data" : "WP",
+  "Manufacturer" : "Scafco",
+  "Product" : "Perfect-Curve Wall Products",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing-Structural Metal Stud Framing-Structural Metal Stud Framing Tracks",
+  "Data" : "ST",
+  "Manufacturer" : "Scafco",
+  "Product" : "Scafco Structural (T) Track",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing-Structural Metal Stud Framing-Structural Metal Stud Framing Tracks",
+  "Data" : "ST",
+  "Manufacturer" : "Scafco",
+  "Product" : "Slotted Track",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing-Structural Metal Stud Framing-Structural Metal Stud Framing Tracks",
+  "Data" : "DS",
+  "Manufacturer" : "Scafco",
+  "Product" : "Track-in-Track Deflection System \"TTDS",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing-Metal Support Assemblies-Partial-Height Wall Supports",
+  "Data" : "WS",
+  "Manufacturer" : "Scafco",
+  "Product" : "SCAFCO Pony Wall Support",
+  "Spec" : 5
+}, {
+  "Category" : "Plaster Accessories-Supports for Plaster and Gypsum Board-Metal Support Assembly Accessories",
+  "Data" : "RC",
+  "Manufacturer" : "Scafco",
+  "Product" : "Resilient Sound Channel \"RC-1",
+  "Spec" : 9
+}, {
+  "Category" : "Supports for Plaster and Gypsum Board-Non-Structural Metal Framing-Non-Structural Metal Stud Framing",
+  "Data" : "SS",
+  "Manufacturer" : "Scafco",
+  "Product" : "S",
+  "Spec" : 9
+}, {
+  "Category" : "Structural Metal Framing-Structural Aluminum Framing-Architecturally-Exposed Structural Aluminum Framing",
+  "Data" : "DB",
+  "Manufacturer" : "Simpson",
+  "Product" : "Solid-Tip Carbide Drill Bit",
+  "Spec" : 5
+}, {
+  "Category" : "Joint Protection-Joint Sealants",
+  "Data" : "CDT",
+  "Manufacturer" : "Simpson",
+  "Product" : "CDT10 Premium Dispensing Tool",
+  "Spec" : 7
+}, {
+  "Category" : "Fire and Smoke Protection-Firestopping-Joint Firestopping",
+  "Data" : "LC",
+  "Manufacturer" : "STI",
+  "Product" : "SpecSeal Series LC Endothermic Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Fire and Smoke Protection-Firestopping-Electrical Outlet Firestopping",
+  "Data" : "BI",
+  "Manufacturer" : "STI",
+  "Product" : "SpecSeal Series PowerShield Electrical Box Insert",
+  "Spec" : 7
+}, {
+  "Category" : "Fire and Smoke Protection-Firestopping-Electrical Outlet Firestopping",
+  "Data" : "PP",
+  "Manufacturer" : "STI",
+  "Product" : "SpecSeal Series SSP Putty & Putty Pads",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants",
+  "Data" : "AS",
+  "Manufacturer" : "STI",
+  "Product" : "SpecSeal Smoke 'N' Sound Acoustical Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Joint Protection-Joint Sealants-Acoustical Joint Sealants",
+  "Data" : "AS",
+  "Manufacturer" : "STS",
+  "Product" : "SpecSeal Smoke 'N' Sound Acoustical Spray",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal and Moisture Protection-Maintenance of Roofing and Siding Panels-Metal Roofing Retrofit",
+  "Data" : "STS",
+  "Manufacturer" : "STS",
+  "Product" : "Roof Guardian Elastomeric Roof Systems for Metal Roofs",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work Results for Thermal and Moisture Protection-Roof Coatings",
+  "Data" : "RG",
+  "Manufacturer" : "STS",
+  "Product" : "Roof Guardian RG- 400 Bonding Primer",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work Results for Thermal and Moisture Protection-Roof Coatings",
+  "Data" : "RG",
+  "Manufacturer" : "STS",
+  "Product" : "Roof Guardian Aged EPDM, Single- Ply Membrane Roofs",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work Results for Thermal and Moisture Protection-Roof Coatings",
+  "Data" : "RG",
+  "Manufacturer" : "STS",
+  "Product" : "Roof Guardian Aged Urethane Roofs",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work Results for Thermal and Moisture Protection-Roof Coatings",
+  "Data" : "RG",
+  "Manufacturer" : "STS",
+  "Product" : "Roof Guardian Elastomeric Coating System for Bur and Modified Bitumen Roofs",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work Results for Thermal and Moisture Protection-Roof Coatings",
+  "Data" : "RG",
+  "Manufacturer" : "STS",
+  "Product" : "Roof Guardian Elastomeric Coating System for Concrete",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work Results for Thermal and Moisture Protection-Roof Coatings",
+  "Data" : "RG",
+  "Manufacturer" : "STS",
+  "Product" : "Roof Guardian RG- 130 Gray Elastomeric Coating",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal and Moisture Protection-Common Work Results for Thermal and Moisture Protection-Roof Coatings",
+  "Data" : "RG",
+  "Manufacturer" : "STS",
+  "Product" : "Roof Guardian RG- 170 White Elastomeric Finish Coating",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection",
+  "Data" : "HB",
+  "Manufacturer" : "STS",
+  "Product" : "HeatBloc- Ultra",
+  "Spec" : 7
+}, {
+  "Category" : "Ceilings-Acoustical Ceilings",
+  "Data" : "AT",
+  "Manufacturer" : "Tectum",
+  "Product" : "Acousti-Tough Ceiling System",
+  "Spec" : 9
+}, {
+  "Category" : "Ceilings - Acoustical Ceilings - Acoustical Plank Ceilings",
+  "Data" : "CP",
+  "Manufacturer" : "Tectum",
+  "Product" : "Full-Span Corridor Panels",
+  "Spec" : 9
+}, {
+  "Category" : "Thermal Protection-Thermal insulation",
+  "Data" : "TV",
+  "Manufacturer" : "Thermafiber",
+  "Product" : "Thermafiber VersaBoard",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection - Thermal Insulation - Building Insulation Accessories",
+  "Data" : "FT",
+  "Manufacturer" : "Thermafiber",
+  "Product" : "Thermafiber Aluminum Foil & FSK Tape",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection - Thermal Insulation - Board Insulation",
+  "Data" : "RB",
+  "Manufacturer" : "Thermafiber",
+  "Product" : "RainBarrier 45",
+  "Spec" : 7
+}, {
+  "Category" : "Cold-Formed Metal Framing",
+  "Data" : "JS",
+  "Manufacturer" : "Steel Network",
+  "Product" : "JamStud",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing",
+  "Data" : "EQ",
+  "Manufacturer" : "Steel Network",
+  "Product" : "PrimeWall EQ Track",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing",
+  "Data" : "SS",
+  "Manufacturer" : "Steel Network",
+  "Product" : "SigmaStud",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing",
+  "Data" : "SC",
+  "Manufacturer" : "Steel Network",
+  "Product" : "StiffClip RT1300",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing",
+  "Data" : "SC",
+  "Manufacturer" : "Steel Network",
+  "Product" : "StiffClip RT650",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing",
+  "Data" : "SW",
+  "Manufacturer" : "Steel Network",
+  "Product" : "StiffWall Column",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing",
+  "Data" : "SW",
+  "Manufacturer" : "Steel Network",
+  "Product" : "StiffWall Shear Wall",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing",
+  "Data" : "TS",
+  "Manufacturer" : "Steel Network",
+  "Product" : "TightStrap",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing",
+  "Data" : "VC",
+  "Manufacturer" : "Steel Network",
+  "Product" : "VertiClip SLF",
+  "Spec" : 5
+}, {
+  "Category" : "Rough Carpentry",
+  "Data" : "BB",
+  "Manufacturer" : "Trim-Tex",
+  "Product" : "Backerboard",
+  "Spec" : 6
+}, {
+  "Category" : "Joint Protection - Joint Sealants - Elastomeric Joint Sealants",
+  "Data" : "AC",
+  "Manufacturer" : "Trim-Tex",
+  "Product" : "Trim-Tex #710 Adhesive Caulk",
+  "Spec" : 7
+}, {
+  "Category" : "Finishes - Plaster Accessories - Plaster Accessories",
+  "Data" : "CB",
+  "Manufacturer" : "Trim-Tex",
+  "Product" : "Skim Coat Plaster Corner Bead",
+  "Spec" : 9
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "FC",
+  "Manufacturer" : "Unitrust",
+  "Product" : "1-5/8\" Metal Framing Channel - P1000 (12 Gauge)",
+  "Spec" : 5
+}, {
+  "Category" : "Cold-Formed Metal Framing - Metal Support Assemblies",
+  "Data" : "FC",
+  "Manufacturer" : "Unitrust",
+  "Product" : "1-5/8\" Metal Framing Channel - P1100 (14 Gauge)",
+  "Spec" : 5
+}, {
+  "Category" : "Rough Carpentry - Sheathing - Gypsum Sheathing",
+  "Data" : "?",
+  "Manufacturer" : "USG",
+  "Product" : "SHEETROCK Brand Gypsum Sheathing",
+  "Spec" : 6
+}, {
+  "Category" : "Rough Carpentry - Sheathing - Gypsum Sheathing",
+  "Data" : "?",
+  "Manufacturer" : "USG",
+  "Product" : "SHEETROCK GYP-LAP Gypsum Sheathing Panels",
+  "Spec" : 6
+}, {
+  "Category" : "Fire and Smoke Protection - Firestopping - Joint Firestopping",
+  "Data" : "CP",
+  "Manufacturer" : "3M",
+  "Product" : "3M Fire Barrier CP 25WB+",
+  "Spec" : 7
+}, {
+  "Category" : "Fire and Smoke Protection - Firestopping - Joint Firestopping",
+  "Data" : "IC",
+  "Manufacturer" : "3M",
+  "Product" : "3M Fire Barrier Sealant IC 15WB+ Sealant",
+  "Spec" : 7
+}, {
+  "Category" : "Fire and Smoke Protection - Firestopping - Joint Firestopping",
+  "Data" : "FB",
+  "Manufacturer" : "3M",
+  "Product" : "3M Fire Block Sealant FB 136",
+  "Spec" : 7
+}, {
+  "Category" : "Fire and Smoke Protection - Firestopping - Electrical Outlet Firestopping",
+  "Data" : "PP",
+  "Manufacturer" : "3M",
+  "Product" : "3M Fire Barrier Moldable Putty Pads+",
+  "Spec" : 7
+}, {
+  "Category" : "Thermal Protection-Thermal insulation",
+  "Data" : "FB",
+  "Manufacturer" : "Thermafiber",
+  "Product" : "Fire Blankets",
+  "Spec" : 7
+}, {
+  "Category" : "Ceilings-Specialty Ceilings",
+  "Data" : "AM",
+  "Manufacturer" : "Armstrong",
+  "Product" : "Angle Molding",
+  "Spec" : 9
+}, {
+  "Category" : "?",
+  "Data" : "PF",
+  "Manufacturer" : "USG",
+  "Product" : "Paper Faced Drywall Bead and Trim",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "AS",
+  "Manufacturer" : "USG",
+  "Product" : "Sheetrock Brand Acoustical Sealant",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "JC",
+  "Manufacturer" : "USG",
+  "Product" : "Sheetrock Brand Lightweight All Purpose Joint Compound",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "FC",
+  "Manufacturer" : "USG",
+  "Product" : "Suspension System - Flat Ceilings",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "JC",
+  "Manufacturer" : "USG",
+  "Product" : "Sheetrock Brand All Purpose Joint Compound",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "AR",
+  "Manufacturer" : "USG",
+  "Product" : "SHEETROCK Mold Tough AR Firecode Core",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "MT",
+  "Manufacturer" : "USG",
+  "Product" : "SHEETROCK Mold Tough",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "JC",
+  "Manufacturer" : "USG",
+  "Product" : "Sheetrock Brand Midweight All Purpose Joint Compound",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "AS",
+  "Manufacturer" : "USG",
+  "Product" : "Sheetrock Brand Acoustical Sealant",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "JT",
+  "Manufacturer" : "USG",
+  "Product" : "Sheetrock Paper Joint Tape",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "UP",
+  "Manufacturer" : "USG",
+  "Product" : "Sheetrock Brand UltraLight Panels FIRECODE 30",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "UX",
+  "Manufacturer" : "USG",
+  "Product" : "Sheetrock Brand Ultralight Panels FIRECODE X",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "RF",
+  "Manufacturer" : "USG",
+  "Product" : "Sheetrock Regular and Firecode Cores",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "TB",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Sheetrock E2XP Tile Backer",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "SB",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Sheetrock 5/8\" SOUNDBREAK® XP® GYPSUM BOARD",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "XP",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Sheetrock GOLD BOND® BRAND XP® GYPSUM BOARD",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "CB",
+  "Manufacturer" : "USG",
+  "Product" : "Sheetrock Exterior Gypsum Ceiling Board",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "DB",
+  "Manufacturer" : "USG",
+  "Product" : "Sheetrock Durock Cement Board",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "ST",
+  "Manufacturer" : "USG",
+  "Product" : "SHEETROCK Wall and Ceiling Spray Texture",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "VHI",
+  "Manufacturer" : "USG",
+  "Product" : "SHEETROCK GYPSUM PANELS MOLD TOUGH® VHI FIRECODE® CORE",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "PG",
+  "Manufacturer" : "Hoover",
+  "Product" : "PyroGuard",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "ES",
+  "Manufacturer" : "STI",
+  "Product" : "ES Elastomeric Sealant",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "FF",
+  "Manufacturer" : "Johns Manville",
+  "Product" : "Foil-Faced Batts",
+  "Spec" : "?"
+}, {
+  "Category" : "?",
+  "Data" : "AP",
+  "Manufacturer" : "USG",
+  "Product" : "Pebbled Acoustical Panels",
+  "Spec" : "?"
+}, {
+  "Category" : "",
+  "Data" : "FS",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond 3/4\" Ultra-Shield FS Gypsum Board",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "XP",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond 3/4\" Ultra-Shield FS XP Gypsum Board",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "XP",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond 5/16\" XP Fire-Shield Gypsum Board",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "eXP",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond eXP Interior Extreme",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "AR",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond eXP Interior Extreme AR",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "GB",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond Foil Back Gypsum Board",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "GB",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond Gypsum Board",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "XP",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond Hi-Abuse XP Gypsum Board",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "SB",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond SoundBreak XP 1/2\" Gypsum Board",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "SB",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond SoundBreak XP 5/8\" Gypsum Board",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "XP",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond SoundBreak XP Retrofit",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "GB",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "Gold Bond ThermalFOIL Gypsum Board",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "UL",
+  "Manufacturer" : "National Gypsum",
+  "Product" : "ProForm Ultra Light",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "PF",
+  "Manufacturer" : "USG",
+  "Product" : "Beadex Brand Paper-Faced Metal Bead and Trim",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "SS",
+  "Manufacturer" : "USG",
+  "Product" : "Dyall Suspension System - 6 ft Cross Tee",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "CC",
+  "Manufacturer" : "USG",
+  "Product" : "Drywall Suspension System - Curved Ceilings",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "FC",
+  "Manufacturer" : "USG",
+  "Product" : "Drywall Suspension System - Flat Ceilings",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "WP",
+  "Manufacturer" : "USG",
+  "Product" : "Levelrock Brand Wood Primer",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "LP",
+  "Manufacturer" : "USG",
+  "Product" : "Gypsum Liner Panels Submittal",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "GP",
+  "Manufacturer" : "USG",
+  "Product" : "Ultracode Core Gypsum Panels",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "MT",
+  "Manufacturer" : "USG",
+  "Product" : "Ultralight Panels Mold Tough",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "UP",
+  "Manufacturer" : "USG",
+  "Product" : "Ultralight Panels",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "WP",
+  "Manufacturer" : "USG",
+  "Product" : "Wallcovering Primer",
+  "Spec" : 9
+}, {
+  "Category" : "",
+  "Data" : "",
+  "Manufacturer" : "USG",
+  "Product" : "",
+  "Spec" : 9
+} 
+]
+}
+
